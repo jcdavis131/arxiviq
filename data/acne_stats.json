@@ -65,5 +65,6 @@
     }
   ],
   "built_via": "ContactsHub",
-  "store_path": "/home/hatch/workspace/arxiviq/acne_store"
+  "store_path": "./acne_store",
+  "sanitized": true
 }
