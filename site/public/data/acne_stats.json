@@ -1,0 +1,69 @@
+{
+  "unique_authors": 415,
+  "unique_orgs": 5,
+  "tlpg_counts": {
+    "nodes": 498,
+    "edges": 16866,
+    "triggers": 1660,
+    "persons": 415,
+    "orgs": 5,
+    "papers": 78
+  },
+  "triggers_count": 1660,
+  "triggers_examples": [
+    {
+      "phrase": "elaine schaertl short",
+      "person_id": "person:Elaine Schaertl Short",
+      "conf": 0.95,
+      "src": "full_name"
+    },
+    {
+      "phrase": "es",
+      "person_id": "person:Elaine Schaertl Short",
+      "conf": 0.5,
+      "src": "initials"
+    },
+    {
+      "phrase": "e short",
+      "person_id": "person:Elaine Schaertl Short",
+      "conf": 0.6,
+      "src": "first_last_initial"
+    },
+    {
+      "phrase": "author of towards interpretable foundation mo",
+      "person_id": "person:Elaine Schaertl Short",
+      "conf": 0.8,
+      "src": "paper_title"
+    },
+    {
+      "phrase": "guanrui li",
+      "person_id": "person:Guanrui Li",
+      "conf": 0.95,
+      "src": "full_name"
+    }
+  ],
+  "top_orgs": [
+    {
+      "org": "MIT",
+      "count": 19
+    },
+    {
+      "org": "DeepMind",
+      "count": 13
+    },
+    {
+      "org": "FAIR, Meta",
+      "count": 3
+    },
+    {
+      "org": "Institute of Optical Neural Technologies Russian Academy of Sciences",
+      "count": 3
+    },
+    {
+      "org": "Stanford University",
+      "count": 1
+    }
+  ],
+  "built_via": "ContactsHub",
+  "store_path": "/home/hatch/workspace/arxiviq/acne_store"
+}

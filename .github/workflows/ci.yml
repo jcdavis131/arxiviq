@@ -1,0 +1,24 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python3 -m pip install --quiet --upgrade pip
+      - run: python3 scripts/fetch_topics.py || echo "fetch failed but ci continues (fallback data)"
+      - run: python3 scripts/build_acne.py || echo "acne build fallback"
+      - run: python3 scripts/build_graph.py || echo "graph build fallback"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: cd site && npm ci || npm install
+      - run: cd site && npm run build
+

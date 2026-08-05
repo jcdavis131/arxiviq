@@ -1,0 +1,39 @@
+# deps
+node_modules/
+site/node_modules/
+site/.next/
+site/out/
+site/.vercel/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+
+# acne cache (keep store structure but ignore large caches)
+acne_store/cache_*.jsonl
+acne_store/*.log
+.gh_cache.json
+.acne/
+
+# data gen (keep sample, ignore heavy)
+data/papers.json
+data/graph.json
+# keep stats & report
+!data/acne_stats.json
+!data/graph_stats.json
+
+# os
+.DS_Store
+.env
+.env.local
+*.swp
+
+# vercel
+.vercel/
+

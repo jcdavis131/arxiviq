@@ -1,0 +1,1 @@
+{"buildCommand":"cd site && npm run build","devCommand":"cd site && npm run dev","framework":"nextjs","headers":[{"headers":[{"key":"Cache-Control","value":"public, max-age=3600, stale-while-revalidate=86400"}],"source":"/data/(.*)"}],"installCommand":"cd site && npm install","outputDirectory":"site/.next","rewrites":[{"destination":"/data/:path*","source":"/data/:path*"}]}
