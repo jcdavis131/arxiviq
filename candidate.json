@@ -1,0 +1,15 @@
+{
+  "name": "arxiviq deep spec",
+  "branch": "scout/dottie-harness-deep",
+  "timestamp": "2026-08-06T03:08:41.294862+00:00",
+  "gate": "candidate\u2192vectors promotion requires eval scores \u2265 threshold, 7/7 triple-write PASS, no torch, manifest update, README polished, tests PASS",
+  "triple_write_7x7": "7/7 OK verified dottie-20260806T022959Z + dottie-20260805T034534Z-lane2-polish",
+  "no_torch": true,
+  "tests": "uv run pytest or python -m pytest \u2014 no torch",
+  "extras": {
+    "spec_lines": 1014,
+    "nodes": 96,
+    "edges": 237,
+    "triptych": "filters|force-graph|inspector"
+  }
+}
