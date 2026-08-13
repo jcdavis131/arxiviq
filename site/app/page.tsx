@@ -5,10 +5,32 @@ type NodeType = "Paper" | "Organization" | "Person" | "Architecture" | "Topic";
 type GraphNode = {
   id: string; type: string; label: string; title?: string; abstract?: string;
   name?: string; query_tag?: string; authors?: string[];
+  meta?: Record<string, any>;
   x?: number; y?: number; vx?: number; vy?: number; pinned?: boolean;
 };
+type RawGraphEdge = { src: string; dst: string; kind: string; weight?: number };
 type GraphEdge = { source: string; target: string; kind: string; weight?: number };
+type RawGraphData = { nodes: GraphNode[]; edges: RawGraphEdge[] };
 type GraphData = { nodes: GraphNode[]; edges: GraphEdge[] };
+
+// The graph builder (scripts/build_graph.py) emits edges as {src,dst} and
+// stashes paper/person/arch metadata under node.meta — normalize both here
+// so the rest of the UI can use the flat shape it was written against.
+function normalizeGraph(raw: RawGraphData): GraphData {
+  const nodes = (raw.nodes || []).map(n => {
+    const m = n.meta || {};
+    return {
+      ...n,
+      title: m.title ?? n.title,
+      abstract: m.summary ?? n.abstract,
+      name: m.name ?? n.name,
+      query_tag: m.query_tag ?? n.query_tag,
+      authors: m.authors ?? n.authors,
+    };
+  });
+  const edges = (raw.edges || []).map(e => ({ source: e.src, target: e.dst, kind: e.kind, weight: e.weight }));
+  return { nodes, edges };
+}
 
 const COLOR: Record<string,string> = {
   Person:"#0ea5e9", Organization:"#8b5cf6", Paper:"#111827", Architecture:"#f59e0b", Topic:"#10b981"
@@ -29,7 +51,7 @@ export default function Page(){
   const [dims,setDims]=useState({w:900,h:560});
 
   useEffect(()=>{
-    fetch("/data/graph.json").then(r=>r.json()).then(setGraph).catch(()=>{});
+    fetch("/data/graph.json").then(r=>r.json()).then(raw=>setGraph(normalizeGraph(raw))).catch(()=>{});
     fetch("/data/papers.json").then(r=>r.json()).then(setPapers).catch(()=>{});
     if(!svgRef.current) return;
     const ro=new ResizeObserver(()=>{
@@ -125,7 +147,7 @@ export default function Page(){
             {(papers.length?papers:filtered.nodes.filter(n=>n.type==="Paper").map(n=>({id:n.id.replace("paper:",""), title:n.title||n.label, summary:n.abstract, query_tag:n.query_tag, authors:n.authors}))).slice(0,12).map((p:any,i:number)=>(
               <div key={p.id||i} className="rounded-[12px] border bg-white p-2.5 hover:border-zinc-300 cursor-pointer" onClick={()=>{const node=graph.nodes.find(n=>n.id===`paper:${p.id}`||n.id===p.id); if(node) setSelected(node as any);}}>
                 <div className="text-[12px] font-medium leading-tight line-clamp-2">{p.title}</div>
-                <div className="mt-1 text-[11px] font-mono text-zinc-500 line-clamp-1">{p.authors?.join(", ")||"authors"}</div>
+                <div className="mt-1 text-[11px] font-mono text-zinc-500 line-clamp-1">{p.authors?.map((a:any)=>typeof a==="string"?a:a?.name).filter(Boolean).join(", ")||"authors"}</div>
               </div>
             ))}
           </div>
