@@ -1,0 +1,1660 @@
+{"phrase": "elaine schaertl short", "person_id": "person:Elaine Schaertl Short", "conf": 0.95, "src": "full_name"}
+{"phrase": "es", "person_id": "person:Elaine Schaertl Short", "conf": 0.5, "src": "initials"}
+{"phrase": "e short", "person_id": "person:Elaine Schaertl Short", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of towards interpretable foundation mo", "person_id": "person:Elaine Schaertl Short", "conf": 0.8, "src": "paper_title"}
+{"phrase": "guanrui li", "person_id": "person:Guanrui Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "gl", "person_id": "person:Guanrui Li", "conf": 0.5, "src": "initials"}
+{"phrase": "g li", "person_id": "person:Guanrui Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of human-aware physical human-robot co", "person_id": "person:Guanrui Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jost tobias springenberg", "person_id": "person:Jost Tobias Springenberg", "conf": 0.95, "src": "full_name"}
+{"phrase": "js", "person_id": "person:Jost Tobias Springenberg", "conf": 0.5, "src": "initials"}
+{"phrase": "j springenberg", "person_id": "person:Jost Tobias Springenberg", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jost Tobias Springenberg", "conf": 0.8, "src": "paper_title"}
+{"phrase": "vincenzo lomonaco", "person_id": "person:Vincenzo Lomonaco", "conf": 0.95, "src": "full_name"}
+{"phrase": "vl", "person_id": "person:Vincenzo Lomonaco", "conf": 0.5, "src": "initials"}
+{"phrase": "v lomonaco", "person_id": "person:Vincenzo Lomonaco", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of continual learning for recurrent ne", "person_id": "person:Vincenzo Lomonaco", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jack zhao", "person_id": "person:Jack Zhao", "conf": 0.95, "src": "full_name"}
+{"phrase": "jz", "person_id": "person:Jack Zhao", "conf": 0.5, "src": "initials"}
+{"phrase": "j zhao", "person_id": "person:Jack Zhao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Jack Zhao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "randy evans", "person_id": "person:Randy Evans", "conf": 0.95, "src": "full_name"}
+{"phrase": "re", "person_id": "person:Randy Evans", "conf": 0.5, "src": "initials"}
+{"phrase": "r evans", "person_id": "person:Randy Evans", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical joint embeddings for p", "person_id": "person:Randy Evans", "conf": 0.8, "src": "paper_title"}
+{"phrase": "karl friston", "person_id": "person:Karl Friston", "conf": 0.95, "src": "full_name"}
+{"phrase": "kf", "person_id": "person:Karl Friston", "conf": 0.5, "src": "initials"}
+{"phrase": "k friston", "person_id": "person:Karl Friston", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of predictive coding as variational in", "person_id": "person:Karl Friston", "conf": 0.8, "src": "paper_title"}
+{"phrase": "pierre sermanet", "person_id": "person:Pierre Sermanet", "conf": 0.95, "src": "full_name"}
+{"phrase": "ps", "person_id": "person:Pierre Sermanet", "conf": 0.5, "src": "initials"}
+{"phrase": "p sermanet", "person_id": "person:Pierre Sermanet", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Pierre Sermanet", "conf": 0.8, "src": "paper_title"}
+{"phrase": "oscar chang", "person_id": "person:Oscar Chang", "conf": 0.95, "src": "full_name"}
+{"phrase": "oc", "person_id": "person:Oscar Chang", "conf": 0.5, "src": "initials"}
+{"phrase": "o chang", "person_id": "person:Oscar Chang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Oscar Chang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xinze he", "person_id": "person:Xinze He", "conf": 0.95, "src": "full_name"}
+{"phrase": "xh", "person_id": "person:Xinze He", "conf": 0.5, "src": "initials"}
+{"phrase": "x he", "person_id": "person:Xinze He", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Xinze He", "conf": 0.8, "src": "paper_title"}
+{"phrase": "igor grabec", "person_id": "person:Igor Grabec", "conf": 0.95, "src": "full_name"}
+{"phrase": "ig", "person_id": "person:Igor Grabec", "conf": 0.5, "src": "initials"}
+{"phrase": "i grabec", "person_id": "person:Igor Grabec", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of development of a sensory-neural net", "person_id": "person:Igor Grabec", "conf": 0.8, "src": "paper_title"}
+{"phrase": "michael elabd", "person_id": "person:Michael Elabd", "conf": 0.95, "src": "full_name"}
+{"phrase": "me", "person_id": "person:Michael Elabd", "conf": 0.5, "src": "initials"}
+{"phrase": "m elabd", "person_id": "person:Michael Elabd", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Michael Elabd", "conf": 0.8, "src": "paper_title"}
+{"phrase": "liang liu", "person_id": "person:Liang Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "ll", "person_id": "person:Liang Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "l liu", "person_id": "person:Liang Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a learning framework for n-bit quan", "person_id": "person:Liang Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yang gao", "person_id": "person:Yang Gao", "conf": 0.95, "src": "full_name"}
+{"phrase": "yg", "person_id": "person:Yang Gao", "conf": 0.5, "src": "initials"}
+{"phrase": "y gao", "person_id": "person:Yang Gao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of fp3: a 3d foundation policy for rob", "person_id": "person:Yang Gao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "stanislav fort", "person_id": "person:Stanislav Fort", "conf": 0.95, "src": "full_name"}
+{"phrase": "sf", "person_id": "person:Stanislav Fort", "conf": 0.5, "src": "initials"}
+{"phrase": "s fort", "person_id": "person:Stanislav Fort", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of loss landscapes of world models: gr", "person_id": "person:Stanislav Fort", "conf": 0.8, "src": "paper_title"}
+{"phrase": "preetum nakkiran", "person_id": "person:Preetum Nakkiran", "conf": 0.95, "src": "full_name"}
+{"phrase": "pn", "person_id": "person:Preetum Nakkiran", "conf": 0.5, "src": "initials"}
+{"phrase": "p nakkiran", "person_id": "person:Preetum Nakkiran", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of double descent in self-supervised w", "person_id": "person:Preetum Nakkiran", "conf": 0.8, "src": "paper_title"}
+{"phrase": "viola folli", "person_id": "person:Viola Folli", "conf": 0.95, "src": "full_name"}
+{"phrase": "vf", "person_id": "person:Viola Folli", "conf": 0.5, "src": "initials"}
+{"phrase": "v folli", "person_id": "person:Viola Folli", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of effect of dilution in asymmetric re", "person_id": "person:Viola Folli", "conf": 0.8, "src": "paper_title"}
+{"phrase": "michael neunert", "person_id": "person:Michael Neunert", "conf": 0.95, "src": "full_name"}
+{"phrase": "mn", "person_id": "person:Michael Neunert", "conf": 0.5, "src": "initials"}
+{"phrase": "m neunert", "person_id": "person:Michael Neunert", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Michael Neunert", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yifei su", "person_id": "person:Yifei Su", "conf": 0.95, "src": "full_name"}
+{"phrase": "ys", "person_id": "person:Yifei Su", "conf": 0.5, "src": "initials"}
+{"phrase": "y su", "person_id": "person:Yifei Su", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Yifei Su", "conf": 0.8, "src": "paper_title"}
+{"phrase": "fangchen liu", "person_id": "person:Fangchen Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "fl", "person_id": "person:Fangchen Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "f liu", "person_id": "person:Fangchen Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Fangchen Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mihael sok", "person_id": "person:Mihael Sok", "conf": 0.95, "src": "full_name"}
+{"phrase": "ms", "person_id": "person:Mihael Sok", "conf": 0.5, "src": "initials"}
+{"phrase": "m sok", "person_id": "person:Mihael Sok", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of development of a sensory-neural net", "person_id": "person:Mihael Sok", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yuxiang yang", "person_id": "person:Yuxiang Yang", "conf": 0.95, "src": "full_name"}
+{"phrase": "yy", "person_id": "person:Yuxiang Yang", "conf": 0.5, "src": "initials"}
+{"phrase": "y yang", "person_id": "person:Yuxiang Yang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Yuxiang Yang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sherry yang", "person_id": "person:Sherry Yang", "conf": 0.95, "src": "full_name"}
+{"phrase": "sy", "person_id": "person:Sherry Yang", "conf": 0.5, "src": "initials"}
+{"phrase": "s yang", "person_id": "person:Sherry Yang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world-gymnast: training robots with", "person_id": "person:Sherry Yang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "gašper beguš", "person_id": "person:Gašper Beguš", "conf": 0.95, "src": "full_name"}
+{"phrase": "gb", "person_id": "person:Gašper Beguš", "conf": 0.5, "src": "initials"}
+{"phrase": "g beguš", "person_id": "person:Gašper Beguš", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of ciwgan and fiwgan: encoding informa", "person_id": "person:Gašper Beguš", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ankit prabhu", "person_id": "person:Ankit Prabhu", "conf": 0.95, "src": "full_name"}
+{"phrase": "ap", "person_id": "person:Ankit Prabhu", "conf": 0.5, "src": "initials"}
+{"phrase": "a prabhu", "person_id": "person:Ankit Prabhu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of active metric-semantic mapping by m", "person_id": "person:Ankit Prabhu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tsang-wei edward lee", "person_id": "person:Tsang-Wei Edward Lee", "conf": 0.95, "src": "full_name"}
+{"phrase": "tl", "person_id": "person:Tsang-Wei Edward Lee", "conf": 0.5, "src": "initials"}
+{"phrase": "t lee", "person_id": "person:Tsang-Wei Edward Lee", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Tsang-Wei Edward Lee", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xi chen", "person_id": "person:Xi Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "xc", "person_id": "person:Xi Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "x chen", "person_id": "person:Xi Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Xi Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "dmitry kalashnikov", "person_id": "person:Dmitry Kalashnikov", "conf": 0.95, "src": "full_name"}
+{"phrase": "dk", "person_id": "person:Dmitry Kalashnikov", "conf": 0.5, "src": "initials"}
+{"phrase": "d kalashnikov", "person_id": "person:Dmitry Kalashnikov", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Dmitry Kalashnikov", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hideaki hayashi", "person_id": "person:Hideaki Hayashi", "conf": 0.95, "src": "full_name"}
+{"phrase": "hh", "person_id": "person:Hideaki Hayashi", "conf": 0.5, "src": "initials"}
+{"phrase": "h hayashi", "person_id": "person:Hideaki Hayashi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a recurrent probabilistic neural ne", "person_id": "person:Hideaki Hayashi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "michael milford", "person_id": "person:Michael Milford", "conf": 0.95, "src": "full_name"}
+{"phrase": "mm", "person_id": "person:Michael Milford", "conf": 0.5, "src": "initials"}
+{"phrase": "m milford", "person_id": "person:Michael Milford", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Michael Milford", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mithun george jacob", "person_id": "person:Mithun George Jacob", "conf": 0.95, "src": "full_name"}
+{"phrase": "mj", "person_id": "person:Mithun George Jacob", "conf": 0.5, "src": "initials"}
+{"phrase": "m jacob", "person_id": "person:Mithun George Jacob", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Mithun George Jacob", "conf": 0.8, "src": "paper_title"}
+{"phrase": "chuyuan fu", "person_id": "person:Chuyuan Fu", "conf": 0.95, "src": "full_name"}
+{"phrase": "cf", "person_id": "person:Chuyuan Fu", "conf": 0.5, "src": "initials"}
+{"phrase": "c fu", "person_id": "person:Chuyuan Fu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Chuyuan Fu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zhiwu zheng", "person_id": "person:Zhiwu Zheng", "conf": 0.95, "src": "full_name"}
+{"phrase": "zz", "person_id": "person:Zhiwu Zheng", "conf": 0.5, "src": "initials"}
+{"phrase": "z zheng", "person_id": "person:Zhiwu Zheng", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:Zhiwu Zheng", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rana ali amjad", "person_id": "person:Rana Ali Amjad", "conf": 0.95, "src": "full_name"}
+{"phrase": "ra", "person_id": "person:Rana Ali Amjad", "conf": 0.5, "src": "initials"}
+{"phrase": "r amjad", "person_id": "person:Rana Ali Amjad", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of understanding neural networks and i", "person_id": "person:Rana Ali Amjad", "conf": 0.8, "src": "paper_title"}
+{"phrase": "raffaello camoriano", "person_id": "person:Raffaello Camoriano", "conf": 0.95, "src": "full_name"}
+{"phrase": "rc", "person_id": "person:Raffaello Camoriano", "conf": 0.5, "src": "initials"}
+{"phrase": "r camoriano", "person_id": "person:Raffaello Camoriano", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of structured prediction for crisp inv", "person_id": "person:Raffaello Camoriano", "conf": 0.8, "src": "paper_title"}
+{"phrase": "alex hernández-garcía", "person_id": "person:Alex Hernández-García", "conf": 0.95, "src": "full_name"}
+{"phrase": "ah", "person_id": "person:Alex Hernández-García", "conf": 0.5, "src": "initials"}
+{"phrase": "a hernández-garcía", "person_id": "person:Alex Hernández-García", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of further advantages of data augmenta", "person_id": "person:Alex Hernández-García", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ilja kröker", "person_id": "person:Ilja Kröker", "conf": 0.95, "src": "full_name"}
+{"phrase": "ik", "person_id": "person:Ilja Kröker", "conf": 0.5, "src": "initials"}
+{"phrase": "i kröker", "person_id": "person:Ilja Kröker", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of the deep arbitrary polynomial chaos", "person_id": "person:Ilja Kröker", "conf": 0.8, "src": "paper_title"}
+{"phrase": "pannag sanketi", "person_id": "person:Pannag Sanketi", "conf": 0.95, "src": "full_name"}
+{"phrase": "ps", "person_id": "person:Pannag Sanketi", "conf": 0.5, "src": "initials"}
+{"phrase": "p sanketi", "person_id": "person:Pannag Sanketi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Pannag Sanketi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "wolfgang nowak", "person_id": "person:Wolfgang Nowak", "conf": 0.95, "src": "full_name"}
+{"phrase": "wn", "person_id": "person:Wolfgang Nowak", "conf": 0.5, "src": "initials"}
+{"phrase": "w nowak", "person_id": "person:Wolfgang Nowak", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of the deep arbitrary polynomial chaos", "person_id": "person:Wolfgang Nowak", "conf": 0.8, "src": "paper_title"}
+{"phrase": "marissa giustina", "person_id": "person:Marissa Giustina", "conf": 0.95, "src": "full_name"}
+{"phrase": "mg", "person_id": "person:Marissa Giustina", "conf": 0.5, "src": "initials"}
+{"phrase": "m giustina", "person_id": "person:Marissa Giustina", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Marissa Giustina", "conf": 0.8, "src": "paper_title"}
+{"phrase": "beno benhabib", "person_id": "person:Beno Benhabib", "conf": 0.95, "src": "full_name"}
+{"phrase": "bb", "person_id": "person:Beno Benhabib", "conf": 0.5, "src": "initials"}
+{"phrase": "b benhabib", "person_id": "person:Beno Benhabib", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of embodied ai with foundation models ", "person_id": "person:Beno Benhabib", "conf": 0.8, "src": "paper_title"}
+{"phrase": "haley n. green", "person_id": "person:Haley N. Green", "conf": 0.95, "src": "full_name"}
+{"phrase": "hg", "person_id": "person:Haley N. Green", "conf": 0.5, "src": "initials"}
+{"phrase": "h green", "person_id": "person:Haley N. Green", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of using physiological measures, gaze,", "person_id": "person:Haley N. Green", "conf": 0.8, "src": "paper_title"}
+{"phrase": "guoliang chen", "person_id": "person:Guoliang Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "gc", "person_id": "person:Guoliang Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "g chen", "person_id": "person:Guoliang Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Guoliang Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "wenxuan song", "person_id": "person:Wenxuan Song", "conf": 0.95, "src": "full_name"}
+{"phrase": "ws", "person_id": "person:Wenxuan Song", "conf": 0.5, "src": "initials"}
+{"phrase": "w song", "person_id": "person:Wenxuan Song", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Wenxuan Song", "conf": 0.8, "src": "paper_title"}
+{"phrase": "kenji tahara", "person_id": "person:Kenji Tahara", "conf": 0.95, "src": "full_name"}
+{"phrase": "kt", "person_id": "person:Kenji Tahara", "conf": 0.5, "src": "initials"}
+{"phrase": "k tahara", "person_id": "person:Kenji Tahara", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of stochastic approach for modeling a ", "person_id": "person:Kenji Tahara", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sourav garg", "person_id": "person:Sourav Garg", "conf": 0.95, "src": "full_name"}
+{"phrase": "sg", "person_id": "person:Sourav Garg", "conf": 0.5, "src": "initials"}
+{"phrase": "s garg", "person_id": "person:Sourav Garg", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Sourav Garg", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tianli ding", "person_id": "person:Tianli Ding", "conf": 0.95, "src": "full_name"}
+{"phrase": "td", "person_id": "person:Tianli Ding", "conf": 0.5, "src": "initials"}
+{"phrase": "t ding", "person_id": "person:Tianli Ding", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Tianli Ding", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mingyu park", "person_id": "person:Mingyu Park", "conf": 0.95, "src": "full_name"}
+{"phrase": "mp", "person_id": "person:Mingyu Park", "conf": 0.5, "src": "initials"}
+{"phrase": "m park", "person_id": "person:Mingyu Park", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of infusing model predictive control i", "person_id": "person:Mingyu Park", "conf": 0.8, "src": "paper_title"}
+{"phrase": "leonard hasenclever", "person_id": "person:Leonard Hasenclever", "conf": 0.95, "src": "full_name"}
+{"phrase": "lh", "person_id": "person:Leonard Hasenclever", "conf": 0.5, "src": "initials"}
+{"phrase": "l hasenclever", "person_id": "person:Leonard Hasenclever", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Leonard Hasenclever", "conf": 0.8, "src": "paper_title"}
+{"phrase": "giulia vezzani", "person_id": "person:Giulia Vezzani", "conf": 0.95, "src": "full_name"}
+{"phrase": "gv", "person_id": "person:Giulia Vezzani", "conf": 0.5, "src": "initials"}
+{"phrase": "g vezzani", "person_id": "person:Giulia Vezzani", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Giulia Vezzani", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yeoneung kim", "person_id": "person:Yeoneung Kim", "conf": 0.95, "src": "full_name"}
+{"phrase": "yk", "person_id": "person:Yeoneung Kim", "conf": 0.5, "src": "initials"}
+{"phrase": "y kim", "person_id": "person:Yeoneung Kim", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of infusing model predictive control i", "person_id": "person:Yeoneung Kim", "conf": 0.8, "src": "paper_title"}
+{"phrase": "franck le", "person_id": "person:Franck Le", "conf": 0.95, "src": "full_name"}
+{"phrase": "fl", "person_id": "person:Franck Le", "conf": 0.5, "src": "initials"}
+{"phrase": "f le", "person_id": "person:Franck Le", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of robust tabular foundation models", "person_id": "person:Franck Le", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yuichi yamashita", "person_id": "person:Yuichi Yamashita", "conf": 0.95, "src": "full_name"}
+{"phrase": "yy", "person_id": "person:Yuichi Yamashita", "conf": 0.5, "src": "initials"}
+{"phrase": "y yamashita", "person_id": "person:Yuichi Yamashita", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a review on neural network models o", "person_id": "person:Yuichi Yamashita", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yunhong wang", "person_id": "person:Yunhong Wang", "conf": 0.95, "src": "full_name"}
+{"phrase": "yw", "person_id": "person:Yunhong Wang", "conf": 0.5, "src": "initials"}
+{"phrase": "y wang", "person_id": "person:Yunhong Wang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Yunhong Wang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yuxiang zhou", "person_id": "person:Yuxiang Zhou", "conf": 0.95, "src": "full_name"}
+{"phrase": "yz", "person_id": "person:Yuxiang Zhou", "conf": 0.5, "src": "initials"}
+{"phrase": "y zhou", "person_id": "person:Yuxiang Zhou", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Yuxiang Zhou", "conf": 0.8, "src": "paper_title"}
+{"phrase": "bin li", "person_id": "person:Bin Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "bl", "person_id": "person:Bin Li", "conf": 0.5, "src": "initials"}
+{"phrase": "b li", "person_id": "person:Bin Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Bin Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "montserrat gonzalez arenas", "person_id": "person:Montserrat Gonzalez Arenas", "conf": 0.95, "src": "full_name"}
+{"phrase": "ma", "person_id": "person:Montserrat Gonzalez Arenas", "conf": 0.5, "src": "initials"}
+{"phrase": "m arenas", "person_id": "person:Montserrat Gonzalez Arenas", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Montserrat Gonzalez Arenas", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yunzhe zhang", "person_id": "person:Yunzhe Zhang", "conf": 0.95, "src": "full_name"}
+{"phrase": "yz", "person_id": "person:Yunzhe Zhang", "conf": 0.5, "src": "initials"}
+{"phrase": "y zhang", "person_id": "person:Yunzhe Zhang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world-gymnast: training robots with", "person_id": "person:Yunzhe Zhang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "joseph e. gonzalez", "person_id": "person:Joseph E. Gonzalez", "conf": 0.95, "src": "full_name"}
+{"phrase": "jg", "person_id": "person:Joseph E. Gonzalez", "conf": 0.5, "src": "initials"}
+{"phrase": "j gonzalez", "person_id": "person:Joseph E. Gonzalez", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Joseph E. Gonzalez", "conf": 0.8, "src": "paper_title"}
+{"phrase": "robert moreno", "person_id": "person:Robert Moreno", "conf": 0.95, "src": "full_name"}
+{"phrase": "rm", "person_id": "person:Robert Moreno", "conf": 0.5, "src": "initials"}
+{"phrase": "r moreno", "person_id": "person:Robert Moreno", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Robert Moreno", "conf": 0.8, "src": "paper_title"}
+{"phrase": "kanishka rao", "person_id": "person:Kanishka Rao", "conf": 0.95, "src": "full_name"}
+{"phrase": "kr", "person_id": "person:Kanishka Rao", "conf": 0.5, "src": "initials"}
+{"phrase": "k rao", "person_id": "person:Kanishka Rao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Kanishka Rao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "peiyan li", "person_id": "person:Peiyan Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "pl", "person_id": "person:Peiyan Li", "conf": 0.5, "src": "initials"}
+{"phrase": "p li", "person_id": "person:Peiyan Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Peiyan Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xinran wang", "person_id": "person:Xinran Wang", "conf": 0.95, "src": "full_name"}
+{"phrase": "xw", "person_id": "person:Xinran Wang", "conf": 0.5, "src": "initials"}
+{"phrase": "x wang", "person_id": "person:Xinran Wang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of malleable robots", "person_id": "person:Xinran Wang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "norman di palo", "person_id": "person:Norman Di Palo", "conf": 0.95, "src": "full_name"}
+{"phrase": "np", "person_id": "person:Norman Di Palo", "conf": 0.5, "src": "initials"}
+{"phrase": "n palo", "person_id": "person:Norman Di Palo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Norman Di Palo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rachel sterneck", "person_id": "person:Rachel Sterneck", "conf": 0.95, "src": "full_name"}
+{"phrase": "rs", "person_id": "person:Rachel Sterneck", "conf": 0.5, "src": "initials"}
+{"phrase": "r sterneck", "person_id": "person:Rachel Sterneck", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Rachel Sterneck", "conf": 0.8, "src": "paper_title"}
+{"phrase": "alejandro murillo-gonzalez", "person_id": "person:Alejandro Murillo-Gonzalez", "conf": 0.95, "src": "full_name"}
+{"phrase": "am", "person_id": "person:Alejandro Murillo-Gonzalez", "conf": 0.5, "src": "initials"}
+{"phrase": "a murillo-gonzalez", "person_id": "person:Alejandro Murillo-Gonzalez", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of action flow matching for continual ", "person_id": "person:Alejandro Murillo-Gonzalez", "conf": 0.8, "src": "paper_title"}
+{"phrase": "daniel oliva", "person_id": "person:Daniel Oliva", "conf": 0.95, "src": "full_name"}
+{"phrase": "do", "person_id": "person:Daniel Oliva", "conf": 0.5, "src": "initials"}
+{"phrase": "d oliva", "person_id": "person:Daniel Oliva", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a review on neural network models o", "person_id": "person:Daniel Oliva", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hao-tien lewis chiang", "person_id": "person:Hao-Tien Lewis Chiang", "conf": 0.95, "src": "full_name"}
+{"phrase": "hc", "person_id": "person:Hao-Tien Lewis Chiang", "conf": 0.5, "src": "initials"}
+{"phrase": "h chiang", "person_id": "person:Hao-Tien Lewis Chiang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Hao-Tien Lewis Chiang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jinyu xie", "person_id": "person:Jinyu Xie", "conf": 0.95, "src": "full_name"}
+{"phrase": "jx", "person_id": "person:Jinyu Xie", "conf": 0.5, "src": "initials"}
+{"phrase": "j xie", "person_id": "person:Jinyu Xie", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jinyu Xie", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yuichi kurita", "person_id": "person:Yuichi Kurita", "conf": 0.95, "src": "full_name"}
+{"phrase": "yk", "person_id": "person:Yuichi Kurita", "conf": 0.5, "src": "initials"}
+{"phrase": "y kurita", "person_id": "person:Yuichi Kurita", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a recurrent probabilistic neural ne", "person_id": "person:Yuichi Kurita", "conf": 0.8, "src": "paper_title"}
+{"phrase": "anxing xiao", "person_id": "person:Anxing Xiao", "conf": 0.95, "src": "full_name"}
+{"phrase": "ax", "person_id": "person:Anxing Xiao", "conf": 0.5, "src": "initials"}
+{"phrase": "a xiao", "person_id": "person:Anxing Xiao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hypothesis-driven model expansion u", "person_id": "person:Anxing Xiao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "bernhard c. geiger", "person_id": "person:Bernhard C. Geiger", "conf": 0.95, "src": "full_name"}
+{"phrase": "bg", "person_id": "person:Bernhard C. Geiger", "conf": 0.5, "src": "initials"}
+{"phrase": "b geiger", "person_id": "person:Bernhard C. Geiger", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of on information plane analyses of ne", "person_id": "person:Bernhard C. Geiger", "conf": 0.8, "src": "paper_title"}
+{"phrase": "victor barasuol", "person_id": "person:Victor Barasuol", "conf": 0.95, "src": "full_name"}
+{"phrase": "vb", "person_id": "person:Victor Barasuol", "conf": 0.5, "src": "initials"}
+{"phrase": "v barasuol", "person_id": "person:Victor Barasuol", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of vital: vision-based terrain-aware l", "person_id": "person:Victor Barasuol", "conf": 0.8, "src": "paper_title"}
+{"phrase": "vincent vanhoucke", "person_id": "person:Vincent Vanhoucke", "conf": 0.95, "src": "full_name"}
+{"phrase": "vv", "person_id": "person:Vincent Vanhoucke", "conf": 0.5, "src": "initials"}
+{"phrase": "v vanhoucke", "person_id": "person:Vincent Vanhoucke", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Vincent Vanhoucke", "conf": 0.8, "src": "paper_title"}
+{"phrase": "giorgio gosti", "person_id": "person:Giorgio Gosti", "conf": 0.95, "src": "full_name"}
+{"phrase": "gg", "person_id": "person:Giorgio Gosti", "conf": 0.5, "src": "initials"}
+{"phrase": "g gosti", "person_id": "person:Giorgio Gosti", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of effect of dilution in asymmetric re", "person_id": "person:Giorgio Gosti", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jordi soriano", "person_id": "person:Jordi Soriano", "conf": 0.95, "src": "full_name"}
+{"phrase": "js", "person_id": "person:Jordi Soriano", "conf": 0.5, "src": "initials"}
+{"phrase": "j soriano", "person_id": "person:Jordi Soriano", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of percolation approach to study conne", "person_id": "person:Jordi Soriano", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ville kyrki", "person_id": "person:Ville Kyrki", "conf": 0.95, "src": "full_name"}
+{"phrase": "vk", "person_id": "person:Ville Kyrki", "conf": 0.5, "src": "initials"}
+{"phrase": "v kyrki", "person_id": "person:Ville Kyrki", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a survey of robot manipulation in c", "person_id": "person:Ville Kyrki", "conf": 0.8, "src": "paper_title"}
+{"phrase": "antoine laurens", "person_id": "person:Antoine Laurens", "conf": 0.95, "src": "full_name"}
+{"phrase": "al", "person_id": "person:Antoine Laurens", "conf": 0.5, "src": "initials"}
+{"phrase": "a laurens", "person_id": "person:Antoine Laurens", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Antoine Laurens", "conf": 0.8, "src": "paper_title"}
+{"phrase": "astghik hakobyan", "person_id": "person:Astghik Hakobyan", "conf": 0.95, "src": "full_name"}
+{"phrase": "ah", "person_id": "person:Astghik Hakobyan", "conf": 0.5, "src": "initials"}
+{"phrase": "a hakobyan", "person_id": "person:Astghik Hakobyan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of infusing model predictive control i", "person_id": "person:Astghik Hakobyan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "fei xia", "person_id": "person:Fei Xia", "conf": 0.95, "src": "full_name"}
+{"phrase": "fx", "person_id": "person:Fei Xia", "conf": 0.5, "src": "initials"}
+{"phrase": "f xia", "person_id": "person:Fei Xia", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Fei Xia", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tat-jun chin", "person_id": "person:Tat-Jun Chin", "conf": 0.95, "src": "full_name"}
+{"phrase": "tc", "person_id": "person:Tat-Jun Chin", "conf": 0.5, "src": "initials"}
+{"phrase": "t chin", "person_id": "person:Tat-Jun Chin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Tat-Jun Chin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "samy bengio", "person_id": "person:Samy Bengio", "conf": 0.95, "src": "full_name"}
+{"phrase": "sb", "person_id": "person:Samy Bengio", "conf": 0.5, "src": "initials"}
+{"phrase": "s bengio", "person_id": "person:Samy Bengio", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of loss landscapes of world models: gr", "person_id": "person:Samy Bengio", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mohit sharma", "person_id": "person:Mohit Sharma", "conf": 0.95, "src": "full_name"}
+{"phrase": "ms", "person_id": "person:Mohit Sharma", "conf": 0.5, "src": "initials"}
+{"phrase": "m sharma", "person_id": "person:Mohit Sharma", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Mohit Sharma", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lina zhang", "person_id": "person:Lina Zhang", "conf": 0.95, "src": "full_name"}
+{"phrase": "lz", "person_id": "person:Lina Zhang", "conf": 0.5, "src": "initials"}
+{"phrase": "l zhang", "person_id": "person:Lina Zhang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Lina Zhang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "izumi kondo", "person_id": "person:Izumi Kondo", "conf": 0.95, "src": "full_name"}
+{"phrase": "ik", "person_id": "person:Izumi Kondo", "conf": 0.5, "src": "initials"}
+{"phrase": "i kondo", "person_id": "person:Izumi Kondo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of enhancing the llm-based robot manip", "person_id": "person:Izumi Kondo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "stefano saliceti", "person_id": "person:Stefano Saliceti", "conf": 0.95, "src": "full_name"}
+{"phrase": "ss", "person_id": "person:Stefano Saliceti", "conf": 0.5, "src": "initials"}
+{"phrase": "s saliceti", "person_id": "person:Stefano Saliceti", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Stefano Saliceti", "conf": 0.8, "src": "paper_title"}
+{"phrase": "qing zhao", "person_id": "person:Qing Zhao", "conf": 0.95, "src": "full_name"}
+{"phrase": "qz", "person_id": "person:Qing Zhao", "conf": 0.5, "src": "initials"}
+{"phrase": "q zhao", "person_id": "person:Qing Zhao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of learning optimal topology for ad-ho", "person_id": "person:Qing Zhao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "luis fred", "person_id": "person:Luis Fred", "conf": 0.95, "src": "full_name"}
+{"phrase": "lf", "person_id": "person:Luis Fred", "conf": 0.5, "src": "initials"}
+{"phrase": "l fred", "person_id": "person:Luis Fred", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical attentional hybrid neu", "person_id": "person:Luis Fred", "conf": 0.8, "src": "paper_title"}
+{"phrase": "wen ye", "person_id": "person:Wen Ye", "conf": 0.95, "src": "full_name"}
+{"phrase": "wy", "person_id": "person:Wen Ye", "conf": 0.5, "src": "initials"}
+{"phrase": "w ye", "person_id": "person:Wen Ye", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Wen Ye", "conf": 0.8, "src": "paper_title"}
+{"phrase": "m. emre karagozler", "person_id": "person:M. Emre Karagozler", "conf": 0.95, "src": "full_name"}
+{"phrase": "mk", "person_id": "person:M. Emre Karagozler", "conf": 0.5, "src": "initials"}
+{"phrase": "m karagozler", "person_id": "person:M. Emre Karagozler", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:M. Emre Karagozler", "conf": 0.8, "src": "paper_title"}
+{"phrase": "b. v. kryzhanovsky", "person_id": "person:B. V. Kryzhanovsky", "conf": 0.95, "src": "full_name"}
+{"phrase": "bk", "person_id": "person:B. V. Kryzhanovsky", "conf": 0.5, "src": "initials"}
+{"phrase": "b kryzhanovsky", "person_id": "person:B. V. Kryzhanovsky", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of parametrical neural network", "person_id": "person:B. V. Kryzhanovsky", "conf": 0.8, "src": "paper_title"}
+{"phrase": "david macêdo", "person_id": "person:David Macêdo", "conf": 0.95, "src": "full_name"}
+{"phrase": "dm", "person_id": "person:David Macêdo", "conf": 0.5, "src": "initials"}
+{"phrase": "d macêdo", "person_id": "person:David Macêdo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical attentional hybrid neu", "person_id": "person:David Macêdo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "adil dostmohamed", "person_id": "person:Adil Dostmohamed", "conf": 0.95, "src": "full_name"}
+{"phrase": "ad", "person_id": "person:Adil Dostmohamed", "conf": 0.5, "src": "initials"}
+{"phrase": "a dostmohamed", "person_id": "person:Adil Dostmohamed", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Adil Dostmohamed", "conf": 0.8, "src": "paper_title"}
+{"phrase": "qi wu", "person_id": "person:Qi Wu", "conf": 0.95, "src": "full_name"}
+{"phrase": "qw", "person_id": "person:Qi Wu", "conf": 0.5, "src": "initials"}
+{"phrase": "q wu", "person_id": "person:Qi Wu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Qi Wu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "radu soricut", "person_id": "person:Radu Soricut", "conf": 0.95, "src": "full_name"}
+{"phrase": "rs", "person_id": "person:Radu Soricut", "conf": 0.5, "src": "initials"}
+{"phrase": "r soricut", "person_id": "person:Radu Soricut", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Radu Soricut", "conf": 0.8, "src": "paper_title"}
+{"phrase": "david hsu", "person_id": "person:David Hsu", "conf": 0.95, "src": "full_name"}
+{"phrase": "dh", "person_id": "person:David Hsu", "conf": 0.5, "src": "initials"}
+{"phrase": "d hsu", "person_id": "person:David Hsu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hypothesis-driven model expansion u", "person_id": "person:David Hsu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "wentao yuan", "person_id": "person:Wentao Yuan", "conf": 0.95, "src": "full_name"}
+{"phrase": "wy", "person_id": "person:Wentao Yuan", "conf": 0.5, "src": "initials"}
+{"phrase": "w yuan", "person_id": "person:Wentao Yuan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Wentao Yuan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ansh kumar sharma", "person_id": "person:Ansh Kumar Sharma", "conf": 0.95, "src": "full_name"}
+{"phrase": "as", "person_id": "person:Ansh Kumar Sharma", "conf": 0.5, "src": "initials"}
+{"phrase": "a sharma", "person_id": "person:Ansh Kumar Sharma", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world-gymnast: training robots with", "person_id": "person:Ansh Kumar Sharma", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sergey oladyshkin", "person_id": "person:Sergey Oladyshkin", "conf": 0.95, "src": "full_name"}
+{"phrase": "so", "person_id": "person:Sergey Oladyshkin", "conf": 0.5, "src": "initials"}
+{"phrase": "s oladyshkin", "person_id": "person:Sergey Oladyshkin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of the deep arbitrary polynomial chaos", "person_id": "person:Sergey Oladyshkin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lorenzo rosasco", "person_id": "person:Lorenzo Rosasco", "conf": 0.95, "src": "full_name"}
+{"phrase": "lr", "person_id": "person:Lorenzo Rosasco", "conf": 0.5, "src": "initials"}
+{"phrase": "l rosasco", "person_id": "person:Lorenzo Rosasco", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of structured prediction for crisp inv", "person_id": "person:Lorenzo Rosasco", "conf": 0.8, "src": "paper_title"}
+{"phrase": "francesco borrelli", "person_id": "person:Francesco Borrelli", "conf": 0.95, "src": "full_name"}
+{"phrase": "fb", "person_id": "person:Francesco Borrelli", "conf": 0.5, "src": "initials"}
+{"phrase": "f borrelli", "person_id": "person:Francesco Borrelli", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Francesco Borrelli", "conf": 0.8, "src": "paper_title"}
+{"phrase": "michiel blokzijl", "person_id": "person:Michiel Blokzijl", "conf": 0.95, "src": "full_name"}
+{"phrase": "mb", "person_id": "person:Michiel Blokzijl", "conf": 0.5, "src": "initials"}
+{"phrase": "m blokzijl", "person_id": "person:Michiel Blokzijl", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Michiel Blokzijl", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sumitaka honji", "person_id": "person:Sumitaka Honji", "conf": 0.95, "src": "full_name"}
+{"phrase": "sh", "person_id": "person:Sumitaka Honji", "conf": 0.5, "src": "initials"}
+{"phrase": "s honji", "person_id": "person:Sumitaka Honji", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of stochastic approach for modeling a ", "person_id": "person:Sumitaka Honji", "conf": 0.8, "src": "paper_title"}
+{"phrase": "daniel wu", "person_id": "person:Daniel Wu", "conf": 0.95, "src": "full_name"}
+{"phrase": "dw", "person_id": "person:Daniel Wu", "conf": 0.5, "src": "initials"}
+{"phrase": "d wu", "person_id": "person:Daniel Wu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of intent at a glance: gaze-guided rob", "person_id": "person:Daniel Wu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mike allenspach", "person_id": "person:Mike Allenspach", "conf": 0.95, "src": "full_name"}
+{"phrase": "ma", "person_id": "person:Mike Allenspach", "conf": 0.5, "src": "initials"}
+{"phrase": "m allenspach", "person_id": "person:Mike Allenspach", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of task adaptation in industrial human", "person_id": "person:Mike Allenspach", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jun chen", "person_id": "person:Jun Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "jc", "person_id": "person:Jun Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "j chen", "person_id": "person:Jun Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a learning framework for n-bit quan", "person_id": "person:Jun Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zhiyi yu", "person_id": "person:Zhiyi Yu", "conf": 0.95, "src": "full_name"}
+{"phrase": "zy", "person_id": "person:Zhiyi Yu", "conf": 0.5, "src": "initials"}
+{"phrase": "z yu", "person_id": "person:Zhiyi Yu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of spiking inception module for multi-", "person_id": "person:Zhiyi Yu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jacky liang", "person_id": "person:Jacky Liang", "conf": 0.95, "src": "full_name"}
+{"phrase": "jl", "person_id": "person:Jacky Liang", "conf": 0.5, "src": "initials"}
+{"phrase": "j liang", "person_id": "person:Jacky Liang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jacky Liang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "amir nazemi", "person_id": "person:Amir Nazemi", "conf": 0.95, "src": "full_name"}
+{"phrase": "an", "person_id": "person:Amir Nazemi", "conf": 0.5, "src": "initials"}
+{"phrase": "a nazemi", "person_id": "person:Amir Nazemi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of from predictive coding to jepa: bri", "person_id": "person:Amir Nazemi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lifeng zhou", "person_id": "person:Lifeng Zhou", "conf": 0.95, "src": "full_name"}
+{"phrase": "lz", "person_id": "person:Lifeng Zhou", "conf": 0.5, "src": "initials"}
+{"phrase": "l zhou", "person_id": "person:Lifeng Zhou", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of active metric-semantic mapping by m", "person_id": "person:Lifeng Zhou", "conf": 0.8, "src": "paper_title"}
+{"phrase": "kenji kawaguchi", "person_id": "person:Kenji Kawaguchi", "conf": 0.95, "src": "full_name"}
+{"phrase": "kk", "person_id": "person:Kenji Kawaguchi", "conf": 0.5, "src": "initials"}
+{"phrase": "k kawaguchi", "person_id": "person:Kenji Kawaguchi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of tackling the curse of dimensionalit", "person_id": "person:Kenji Kawaguchi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "william jiang", "person_id": "person:William Jiang", "conf": 0.95, "src": "full_name"}
+{"phrase": "wj", "person_id": "person:William Jiang", "conf": 0.5, "src": "initials"}
+{"phrase": "w jiang", "person_id": "person:William Jiang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of intent at a glance: gaze-guided rob", "person_id": "person:William Jiang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "alex 'sandy' pentland", "person_id": "person:Alex 'Sandy' Pentland", "conf": 0.95, "src": "full_name"}
+{"phrase": "ap", "person_id": "person:Alex 'Sandy' Pentland", "conf": 0.5, "src": "initials"}
+{"phrase": "a pentland", "person_id": "person:Alex 'Sandy' Pentland", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of secure and secret cooperation in ro", "person_id": "person:Alex 'Sandy' Pentland", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sebastian otte", "person_id": "person:Sebastian Otte", "conf": 0.95, "src": "full_name"}
+{"phrase": "so", "person_id": "person:Sebastian Otte", "conf": 0.5, "src": "initials"}
+{"phrase": "s otte", "person_id": "person:Sebastian Otte", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of the deep arbitrary polynomial chaos", "person_id": "person:Sebastian Otte", "conf": 0.8, "src": "paper_title"}
+{"phrase": "andrew s. morgan", "person_id": "person:Andrew S. Morgan", "conf": 0.95, "src": "full_name"}
+{"phrase": "am", "person_id": "person:Andrew S. Morgan", "conf": 0.5, "src": "initials"}
+{"phrase": "a morgan", "person_id": "person:Andrew S. Morgan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of model predictive actor-critic: acce", "person_id": "person:Andrew S. Morgan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "giorgio morales", "person_id": "person:Giorgio Morales", "conf": 0.95, "src": "full_name"}
+{"phrase": "gm", "person_id": "person:Giorgio Morales", "conf": 0.5, "src": "initials"}
+{"phrase": "g morales", "person_id": "person:Giorgio Morales", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of dual accuracy-quality-driven neural", "person_id": "person:Giorgio Morales", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mingyuan meng", "person_id": "person:Mingyuan Meng", "conf": 0.95, "src": "full_name"}
+{"phrase": "mm", "person_id": "person:Mingyuan Meng", "conf": 0.5, "src": "initials"}
+{"phrase": "m meng", "person_id": "person:Mingyuan Meng", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of spiking inception module for multi-", "person_id": "person:Mingyuan Meng", "conf": 0.8, "src": "paper_title"}
+{"phrase": "atsushi tsukahara", "person_id": "person:Atsushi Tsukahara", "conf": 0.95, "src": "full_name"}
+{"phrase": "at", "person_id": "person:Atsushi Tsukahara", "conf": 0.5, "src": "initials"}
+{"phrase": "a tsukahara", "person_id": "person:Atsushi Tsukahara", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of enhancing the llm-based robot manip", "person_id": "person:Atsushi Tsukahara", "conf": 0.8, "src": "paper_title"}
+{"phrase": "grace vesom", "person_id": "person:Grace Vesom", "conf": 0.95, "src": "full_name"}
+{"phrase": "gv", "person_id": "person:Grace Vesom", "conf": 0.5, "src": "initials"}
+{"phrase": "g vesom", "person_id": "person:Grace Vesom", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Grace Vesom", "conf": 0.8, "src": "paper_title"}
+{"phrase": "diyun xiang", "person_id": "person:Diyun Xiang", "conf": 0.95, "src": "full_name"}
+{"phrase": "dx", "person_id": "person:Diyun Xiang", "conf": 0.5, "src": "initials"}
+{"phrase": "d xiang", "person_id": "person:Diyun Xiang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Diyun Xiang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rujie wu", "person_id": "person:Rujie Wu", "conf": 0.95, "src": "full_name"}
+{"phrase": "rw", "person_id": "person:Rujie Wu", "conf": 0.5, "src": "initials"}
+{"phrase": "r wu", "person_id": "person:Rujie Wu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Rujie Wu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "krzysztof choromanski", "person_id": "person:Krzysztof Choromanski", "conf": 0.95, "src": "full_name"}
+{"phrase": "kc", "person_id": "person:Krzysztof Choromanski", "conf": 0.5, "src": "initials"}
+{"phrase": "k choromanski", "person_id": "person:Krzysztof Choromanski", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Krzysztof Choromanski", "conf": 0.8, "src": "paper_title"}
+{"phrase": "isaac sheidlower", "person_id": "person:Isaac Sheidlower", "conf": 0.95, "src": "full_name"}
+{"phrase": "is", "person_id": "person:Isaac Sheidlower", "conf": 0.5, "src": "initials"}
+{"phrase": "i sheidlower", "person_id": "person:Isaac Sheidlower", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of towards interpretable foundation mo", "person_id": "person:Isaac Sheidlower", "conf": 0.8, "src": "paper_title"}
+{"phrase": "francesco nori", "person_id": "person:Francesco Nori", "conf": 0.95, "src": "full_name"}
+{"phrase": "fn", "person_id": "person:Francesco Nori", "conf": 0.5, "src": "initials"}
+{"phrase": "f nori", "person_id": "person:Francesco Nori", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Francesco Nori", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tariq iqbal", "person_id": "person:Tariq Iqbal", "conf": 0.95, "src": "full_name"}
+{"phrase": "ti", "person_id": "person:Tariq Iqbal", "conf": 0.5, "src": "initials"}
+{"phrase": "t iqbal", "person_id": "person:Tariq Iqbal", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of using physiological measures, gaze,", "person_id": "person:Tariq Iqbal", "conf": 0.8, "src": "paper_title"}
+{"phrase": "taro shibanoki", "person_id": "person:Taro Shibanoki", "conf": 0.95, "src": "full_name"}
+{"phrase": "ts", "person_id": "person:Taro Shibanoki", "conf": 0.5, "src": "initials"}
+{"phrase": "t shibanoki", "person_id": "person:Taro Shibanoki", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a recurrent probabilistic neural ne", "person_id": "person:Taro Shibanoki", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jun guo", "person_id": "person:Jun Guo", "conf": 0.95, "src": "full_name"}
+{"phrase": "jg", "person_id": "person:Jun Guo", "conf": 0.5, "src": "initials"}
+{"phrase": "j guo", "person_id": "person:Jun Guo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Jun Guo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "peter könig", "person_id": "person:Peter König", "conf": 0.95, "src": "full_name"}
+{"phrase": "pk", "person_id": "person:Peter König", "conf": 0.5, "src": "initials"}
+{"phrase": "p könig", "person_id": "person:Peter König", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of further advantages of data augmenta", "person_id": "person:Peter König", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yenan chen", "person_id": "person:Yenan Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "yc", "person_id": "person:Yenan Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "y chen", "person_id": "person:Yenan Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:Yenan Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "kaiming he", "person_id": "person:Kaiming He", "conf": 0.95, "src": "full_name"}
+{"phrase": "kh", "person_id": "person:Kaiming He", "conf": 0.5, "src": "initials"}
+{"phrase": "k he", "person_id": "person:Kaiming He", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of imagebind as a universal perceptual", "person_id": "person:Kaiming He", "conf": 0.8, "src": "paper_title"}
+{"phrase": "danny driess", "person_id": "person:Danny Driess", "conf": 0.95, "src": "full_name"}
+{"phrase": "dd", "person_id": "person:Danny Driess", "conf": 0.5, "src": "initials"}
+{"phrase": "d driess", "person_id": "person:Danny Driess", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Danny Driess", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yingyan li", "person_id": "person:Yingyan Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "yl", "person_id": "person:Yingyan Li", "conf": 0.5, "src": "initials"}
+{"phrase": "y li", "person_id": "person:Yingyan Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Yingyan Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "nicolas rojas", "person_id": "person:Nicolas Rojas", "conf": 0.95, "src": "full_name"}
+{"phrase": "nr", "person_id": "person:Nicolas Rojas", "conf": 0.5, "src": "initials"}
+{"phrase": "n rojas", "person_id": "person:Nicolas Rojas", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of malleable robots", "person_id": "person:Nicolas Rojas", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yulia rubanova", "person_id": "person:Yulia Rubanova", "conf": 0.95, "src": "full_name"}
+{"phrase": "yr", "person_id": "person:Yulia Rubanova", "conf": 0.5, "src": "initials"}
+{"phrase": "y rubanova", "person_id": "person:Yulia Rubanova", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Yulia Rubanova", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rowan mcallister", "person_id": "person:Rowan McAllister", "conf": 0.95, "src": "full_name"}
+{"phrase": "rm", "person_id": "person:Rowan McAllister", "conf": 0.5, "src": "initials"}
+{"phrase": "r mcallister", "person_id": "person:Rowan McAllister", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Rowan McAllister", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ronghua shi", "person_id": "person:Ronghua Shi", "conf": 0.95, "src": "full_name"}
+{"phrase": "rs", "person_id": "person:Ronghua Shi", "conf": 0.5, "src": "initials"}
+{"phrase": "r shi", "person_id": "person:Ronghua Shi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of mfi-pso: a flexible and effective m", "person_id": "person:Ronghua Shi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hikaru arita", "person_id": "person:Hikaru Arita", "conf": 0.95, "src": "full_name"}
+{"phrase": "ha", "person_id": "person:Hikaru Arita", "conf": 0.5, "src": "initials"}
+{"phrase": "h arita", "person_id": "person:Hikaru Arita", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of stochastic approach for modeling a ", "person_id": "person:Hikaru Arita", "conf": 0.8, "src": "paper_title"}
+{"phrase": "eva švegl", "person_id": "person:Eva Švegl", "conf": 0.95, "src": "full_name"}
+{"phrase": "eš", "person_id": "person:Eva Švegl", "conf": 0.5, "src": "initials"}
+{"phrase": "e švegl", "person_id": "person:Eva Švegl", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of development of a sensory-neural net", "person_id": "person:Eva Švegl", "conf": 0.8, "src": "paper_title"}
+{"phrase": "alex x. lee", "person_id": "person:Alex X. Lee", "conf": 0.95, "src": "full_name"}
+{"phrase": "al", "person_id": "person:Alex X. Lee", "conf": 0.5, "src": "initials"}
+{"phrase": "a lee", "person_id": "person:Alex X. Lee", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Alex X. Lee", "conf": 0.8, "src": "paper_title"}
+{"phrase": "geng chen", "person_id": "person:Geng Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "gc", "person_id": "person:Geng Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "g chen", "person_id": "person:Geng Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of fp3: a 3d foundation policy for rob", "person_id": "person:Geng Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "antonio carta", "person_id": "person:Antonio Carta", "conf": 0.95, "src": "full_name"}
+{"phrase": "ac", "person_id": "person:Antonio Carta", "conf": 0.5, "src": "initials"}
+{"phrase": "a carta", "person_id": "person:Antonio Carta", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of continual learning for recurrent ne", "person_id": "person:Antonio Carta", "conf": 0.8, "src": "paper_title"}
+{"phrase": "brandon hernaez", "person_id": "person:Brandon Hernaez", "conf": 0.95, "src": "full_name"}
+{"phrase": "bh", "person_id": "person:Brandon Hernaez", "conf": 0.5, "src": "initials"}
+{"phrase": "b hernaez", "person_id": "person:Brandon Hernaez", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Brandon Hernaez", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jonathan kao", "person_id": "person:Jonathan Kao", "conf": 0.95, "src": "full_name"}
+{"phrase": "jk", "person_id": "person:Jonathan Kao", "conf": 0.5, "src": "initials"}
+{"phrase": "j kao", "person_id": "person:Jonathan Kao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of intent at a glance: gaze-guided rob", "person_id": "person:Jonathan Kao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "elisha moses", "person_id": "person:Elisha Moses", "conf": 0.95, "src": "full_name"}
+{"phrase": "em", "person_id": "person:Elisha Moses", "conf": 0.5, "src": "initials"}
+{"phrase": "e moses", "person_id": "person:Elisha Moses", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of percolation approach to study conne", "person_id": "person:Elisha Moses", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xiaomi robotics team", "person_id": "person:Xiaomi Robotics Team", "conf": 0.95, "src": "full_name"}
+{"phrase": "xt", "person_id": "person:Xiaomi Robotics Team", "conf": 0.5, "src": "initials"}
+{"phrase": "x team", "person_id": "person:Xiaomi Robotics Team", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Xiaomi Robotics Team", "conf": 0.8, "src": "paper_title"}
+{"phrase": "nicolas heess", "person_id": "person:Nicolas Heess", "conf": 0.95, "src": "full_name"}
+{"phrase": "nh", "person_id": "person:Nicolas Heess", "conf": 0.5, "src": "initials"}
+{"phrase": "n heess", "person_id": "person:Nicolas Heess", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Nicolas Heess", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sigurd wagner", "person_id": "person:Sigurd Wagner", "conf": 0.95, "src": "full_name"}
+{"phrase": "sw", "person_id": "person:Sigurd Wagner", "conf": 0.5, "src": "initials"}
+{"phrase": "s wagner", "person_id": "person:Sigurd Wagner", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:Sigurd Wagner", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jason li", "person_id": "person:Jason Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "jl", "person_id": "person:Jason Li", "conf": 0.5, "src": "initials"}
+{"phrase": "j li", "person_id": "person:Jason Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Jason Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hanbo zhang", "person_id": "person:Hanbo Zhang", "conf": 0.95, "src": "full_name"}
+{"phrase": "hz", "person_id": "person:Hanbo Zhang", "conf": 0.5, "src": "initials"}
+{"phrase": "h zhang", "person_id": "person:Hanbo Zhang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hypothesis-driven model expansion u", "person_id": "person:Hanbo Zhang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ananya agrawal", "person_id": "person:Ananya Agrawal", "conf": 0.95, "src": "full_name"}
+{"phrase": "aa", "person_id": "person:Ananya Agrawal", "conf": 0.5, "src": "initials"}
+{"phrase": "a agrawal", "person_id": "person:Ananya Agrawal", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of v-jepa for robotic world models: ac", "person_id": "person:Ananya Agrawal", "conf": 0.8, "src": "paper_title"}
+{"phrase": "james c. sturm", "person_id": "person:James C. Sturm", "conf": 0.95, "src": "full_name"}
+{"phrase": "js", "person_id": "person:James C. Sturm", "conf": 0.5, "src": "initials"}
+{"phrase": "j sturm", "person_id": "person:James C. Sturm", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:James C. Sturm", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xu liu", "person_id": "person:Xu Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "xl", "person_id": "person:Xu Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "x liu", "person_id": "person:Xu Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of active metric-semantic mapping by m", "person_id": "person:Xu Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "kairen liu", "person_id": "person:Kairen Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "kl", "person_id": "person:Kairen Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "k liu", "person_id": "person:Kairen Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of understanding neural networks and i", "person_id": "person:Kairen Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "serkan cabi", "person_id": "person:Serkan Cabi", "conf": 0.95, "src": "full_name"}
+{"phrase": "sc", "person_id": "person:Serkan Cabi", "conf": 0.5, "src": "initials"}
+{"phrase": "s cabi", "person_id": "person:Serkan Cabi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Serkan Cabi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jose enrique chen", "person_id": "person:Jose Enrique Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "jc", "person_id": "person:Jose Enrique Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "j chen", "person_id": "person:Jose Enrique Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jose Enrique Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yifan xie", "person_id": "person:Yifan Xie", "conf": 0.95, "src": "full_name"}
+{"phrase": "yx", "person_id": "person:Yifan Xie", "conf": 0.5, "src": "initials"}
+{"phrase": "y xie", "person_id": "person:Yifan Xie", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Yifan Xie", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tingnan zhang", "person_id": "person:Tingnan Zhang", "conf": 0.95, "src": "full_name"}
+{"phrase": "tz", "person_id": "person:Tingnan Zhang", "conf": 0.5, "src": "initials"}
+{"phrase": "t zhang", "person_id": "person:Tingnan Zhang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Tingnan Zhang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "coline devin", "person_id": "person:Coline Devin", "conf": 0.95, "src": "full_name"}
+{"phrase": "cd", "person_id": "person:Coline Devin", "conf": 0.5, "src": "initials"}
+{"phrase": "c devin", "person_id": "person:Coline Devin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Coline Devin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "federico casarini", "person_id": "person:Federico Casarini", "conf": 0.95, "src": "full_name"}
+{"phrase": "fc", "person_id": "person:Federico Casarini", "conf": 0.5, "src": "initials"}
+{"phrase": "f casarini", "person_id": "person:Federico Casarini", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Federico Casarini", "conf": 0.8, "src": "paper_title"}
+{"phrase": "khemraj shukla", "person_id": "person:Khemraj Shukla", "conf": 0.95, "src": "full_name"}
+{"phrase": "ks", "person_id": "person:Khemraj Shukla", "conf": 0.5, "src": "initials"}
+{"phrase": "k shukla", "person_id": "person:Khemraj Shukla", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of tackling the curse of dimensionalit", "person_id": "person:Khemraj Shukla", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ted xiao", "person_id": "person:Ted Xiao", "conf": 0.95, "src": "full_name"}
+{"phrase": "tx", "person_id": "person:Ted Xiao", "conf": 0.5, "src": "initials"}
+{"phrase": "t xiao", "person_id": "person:Ted Xiao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Ted Xiao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "anja philippsen", "person_id": "person:Anja Philippsen", "conf": 0.95, "src": "full_name"}
+{"phrase": "ap", "person_id": "person:Anja Philippsen", "conf": 0.5, "src": "initials"}
+{"phrase": "a philippsen", "person_id": "person:Anja Philippsen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a review on neural network models o", "person_id": "person:Anja Philippsen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "atil iscen", "person_id": "person:Atil Iscen", "conf": 0.95, "src": "full_name"}
+{"phrase": "ai", "person_id": "person:Atil Iscen", "conf": 0.5, "src": "initials"}
+{"phrase": "a iscen", "person_id": "person:Atil Iscen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Atil Iscen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ayzaan wahid", "person_id": "person:Ayzaan Wahid", "conf": 0.95, "src": "full_name"}
+{"phrase": "aw", "person_id": "person:Ayzaan Wahid", "conf": 0.5, "src": "initials"}
+{"phrase": "a wahid", "person_id": "person:Ayzaan Wahid", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Ayzaan Wahid", "conf": 0.8, "src": "paper_title"}
+{"phrase": "thomas parr", "person_id": "person:Thomas Parr", "conf": 0.95, "src": "full_name"}
+{"phrase": "tp", "person_id": "person:Thomas Parr", "conf": 0.5, "src": "initials"}
+{"phrase": "t parr", "person_id": "person:Thomas Parr", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of predictive coding as variational in", "person_id": "person:Thomas Parr", "conf": 0.8, "src": "paper_title"}
+{"phrase": "giuseppe loianno", "person_id": "person:Giuseppe Loianno", "conf": 0.95, "src": "full_name"}
+{"phrase": "gl", "person_id": "person:Giuseppe Loianno", "conf": 0.5, "src": "initials"}
+{"phrase": "g loianno", "person_id": "person:Giuseppe Loianno", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of human-aware physical human-robot co", "person_id": "person:Giuseppe Loianno", "conf": 0.8, "src": "paper_title"}
+{"phrase": "quanyun zhou", "person_id": "person:Quanyun Zhou", "conf": 0.95, "src": "full_name"}
+{"phrase": "qz", "person_id": "person:Quanyun Zhou", "conf": 0.5, "src": "initials"}
+{"phrase": "q zhou", "person_id": "person:Quanyun Zhou", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Quanyun Zhou", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yong liu", "person_id": "person:Yong Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "yl", "person_id": "person:Yong Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "y liu", "person_id": "person:Yong Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a learning framework for n-bit quan", "person_id": "person:Yong Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "naveen verma", "person_id": "person:Naveen Verma", "conf": 0.95, "src": "full_name"}
+{"phrase": "nv", "person_id": "person:Naveen Verma", "conf": 0.5, "src": "initials"}
+{"phrase": "n verma", "person_id": "person:Naveen Verma", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:Naveen Verma", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xingyu yang", "person_id": "person:Xingyu Yang", "conf": 0.95, "src": "full_name"}
+{"phrase": "xy", "person_id": "person:Xingyu Yang", "conf": 0.5, "src": "initials"}
+{"phrase": "x yang", "person_id": "person:Xingyu Yang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of spiking inception module for multi-", "person_id": "person:Xingyu Yang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ryan julian", "person_id": "person:Ryan Julian", "conf": 0.95, "src": "full_name"}
+{"phrase": "rj", "person_id": "person:Ryan Julian", "conf": 0.5, "src": "initials"}
+{"phrase": "r julian", "person_id": "person:Ryan Julian", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Ryan Julian", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jonathan ouyang", "person_id": "person:Jonathan Ouyang", "conf": 0.95, "src": "full_name"}
+{"phrase": "jo", "person_id": "person:Jonathan Ouyang", "conf": 0.5, "src": "initials"}
+{"phrase": "j ouyang", "person_id": "person:Jonathan Ouyang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of intent at a glance: gaze-guided rob", "person_id": "person:Jonathan Ouyang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "acorn pooley", "person_id": "person:Acorn Pooley", "conf": 0.95, "src": "full_name"}
+{"phrase": "ap", "person_id": "person:Acorn Pooley", "conf": 0.5, "src": "initials"}
+{"phrase": "a pooley", "person_id": "person:Acorn Pooley", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Acorn Pooley", "conf": 0.8, "src": "paper_title"}
+{"phrase": "eilif muller", "person_id": "person:Eilif Muller", "conf": 0.95, "src": "full_name"}
+{"phrase": "em", "person_id": "person:Eilif Muller", "conf": 0.5, "src": "initials"}
+{"phrase": "e muller", "person_id": "person:Eilif Muller", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of from predictive coding to jepa: bri", "person_id": "person:Eilif Muller", "conf": 0.8, "src": "paper_title"}
+{"phrase": "insoon yang", "person_id": "person:Insoon Yang", "conf": 0.95, "src": "full_name"}
+{"phrase": "iy", "person_id": "person:Insoon Yang", "conf": 0.5, "src": "initials"}
+{"phrase": "i yang", "person_id": "person:Insoon Yang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of infusing model predictive control i", "person_id": "person:Insoon Yang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jerad kirkland", "person_id": "person:Jerad Kirkland", "conf": 0.95, "src": "full_name"}
+{"phrase": "jk", "person_id": "person:Jerad Kirkland", "conf": 0.5, "src": "initials"}
+{"phrase": "j kirkland", "person_id": "person:Jerad Kirkland", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jerad Kirkland", "conf": 0.8, "src": "paper_title"}
+{"phrase": "angus b. clark", "person_id": "person:Angus B. Clark", "conf": 0.95, "src": "full_name"}
+{"phrase": "ac", "person_id": "person:Angus B. Clark", "conf": 0.5, "src": "initials"}
+{"phrase": "a clark", "person_id": "person:Angus B. Clark", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of malleable robots", "person_id": "person:Angus B. Clark", "conf": 0.8, "src": "paper_title"}
+{"phrase": "carlo ciliberto", "person_id": "person:Carlo Ciliberto", "conf": 0.95, "src": "full_name"}
+{"phrase": "cc", "person_id": "person:Carlo Ciliberto", "conf": 0.5, "src": "initials"}
+{"phrase": "c ciliberto", "person_id": "person:Carlo Ciliberto", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of structured prediction for crisp inv", "person_id": "person:Carlo Ciliberto", "conf": 0.8, "src": "paper_title"}
+{"phrase": "gihun kim", "person_id": "person:Gihun Kim", "conf": 0.95, "src": "full_name"}
+{"phrase": "gk", "person_id": "person:Gihun Kim", "conf": 0.5, "src": "initials"}
+{"phrase": "g kim", "person_id": "person:Gihun Kim", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of infusing model predictive control i", "person_id": "person:Gihun Kim", "conf": 0.8, "src": "paper_title"}
+{"phrase": "pieter abbeel", "person_id": "person:Pieter Abbeel", "conf": 0.95, "src": "full_name"}
+{"phrase": "pa", "person_id": "person:Pieter Abbeel", "conf": 0.5, "src": "initials"}
+{"phrase": "p abbeel", "person_id": "person:Pieter Abbeel", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical world models for long-", "person_id": "person:Pieter Abbeel", "conf": 0.8, "src": "paper_title"}
+{"phrase": "vikas sindhwani", "person_id": "person:Vikas Sindhwani", "conf": 0.95, "src": "full_name"}
+{"phrase": "vs", "person_id": "person:Vikas Sindhwani", "conf": 0.5, "src": "initials"}
+{"phrase": "v sindhwani", "person_id": "person:Vikas Sindhwani", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Vikas Sindhwani", "conf": 0.8, "src": "paper_title"}
+{"phrase": "shen-huan lyu", "person_id": "person:Shen-Huan Lyu", "conf": 0.95, "src": "full_name"}
+{"phrase": "sl", "person_id": "person:Shen-Huan Lyu", "conf": 0.5, "src": "initials"}
+{"phrase": "s lyu", "person_id": "person:Shen-Huan Lyu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of improving generalization of deep ne", "person_id": "person:Shen-Huan Lyu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "farid mohammadi", "person_id": "person:Farid Mohammadi", "conf": 0.95, "src": "full_name"}
+{"phrase": "fm", "person_id": "person:Farid Mohammadi", "conf": 0.5, "src": "initials"}
+{"phrase": "f mohammadi", "person_id": "person:Farid Mohammadi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of the deep arbitrary polynomial chaos", "person_id": "person:Farid Mohammadi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "paul wohlhart", "person_id": "person:Paul Wohlhart", "conf": 0.95, "src": "full_name"}
+{"phrase": "pw", "person_id": "person:Paul Wohlhart", "conf": 0.5, "src": "initials"}
+{"phrase": "p wohlhart", "person_id": "person:Paul Wohlhart", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Paul Wohlhart", "conf": 0.8, "src": "paper_title"}
+{"phrase": "c. mallick", "person_id": "person:C. Mallick", "conf": 0.95, "src": "full_name"}
+{"phrase": "cm", "person_id": "person:C. Mallick", "conf": 0.5, "src": "initials"}
+{"phrase": "c mallick", "person_id": "person:C. Mallick", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of existence and global logarithmic st", "person_id": "person:C. Mallick", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jean-baptiste alayrac", "person_id": "person:Jean-Baptiste Alayrac", "conf": 0.95, "src": "full_name"}
+{"phrase": "ja", "person_id": "person:Jean-Baptiste Alayrac", "conf": 0.5, "src": "initials"}
+{"phrase": "j alayrac", "person_id": "person:Jean-Baptiste Alayrac", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jean-Baptiste Alayrac", "conf": 0.8, "src": "paper_title"}
+{"phrase": "todor davchev", "person_id": "person:Todor Davchev", "conf": 0.95, "src": "full_name"}
+{"phrase": "td", "person_id": "person:Todor Davchev", "conf": 0.5, "src": "initials"}
+{"phrase": "t davchev", "person_id": "person:Todor Davchev", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Todor Davchev", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yilun du", "person_id": "person:Yilun Du", "conf": 0.95, "src": "full_name"}
+{"phrase": "yd", "person_id": "person:Yilun Du", "conf": 0.5, "src": "initials"}
+{"phrase": "y du", "person_id": "person:Yilun Du", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Yilun Du", "conf": 0.8, "src": "paper_title"}
+{"phrase": "daljeet nandha", "person_id": "person:Daljeet Nandha", "conf": 0.95, "src": "full_name"}
+{"phrase": "dn", "person_id": "person:Daljeet Nandha", "conf": 0.5, "src": "initials"}
+{"phrase": "d nandha", "person_id": "person:Daljeet Nandha", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of model predictive actor-critic: acce", "person_id": "person:Daljeet Nandha", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yuyang chen", "person_id": "person:Yuyang Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "yc", "person_id": "person:Yuyang Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "y chen", "person_id": "person:Yuyang Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of design of an adaptive lightweight l", "person_id": "person:Yuyang Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "oriol vinyals", "person_id": "person:Oriol Vinyals", "conf": 0.95, "src": "full_name"}
+{"phrase": "ov", "person_id": "person:Oriol Vinyals", "conf": 0.5, "src": "initials"}
+{"phrase": "o vinyals", "person_id": "person:Oriol Vinyals", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Oriol Vinyals", "conf": 0.8, "src": "paper_title"}
+{"phrase": "thomas lampe", "person_id": "person:Thomas Lampe", "conf": 0.95, "src": "full_name"}
+{"phrase": "tl", "person_id": "person:Thomas Lampe", "conf": 0.5, "src": "initials"}
+{"phrase": "t lampe", "person_id": "person:Thomas Lampe", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Thomas Lampe", "conf": 0.8, "src": "paper_title"}
+{"phrase": "emilien biré", "person_id": "person:Emilien Biré", "conf": 0.95, "src": "full_name"}
+{"phrase": "eb", "person_id": "person:Emilien Biré", "conf": 0.5, "src": "initials"}
+{"phrase": "e biré", "person_id": "person:Emilien Biré", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of diffusion world models for visual p", "person_id": "person:Emilien Biré", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xiaodong gu", "person_id": "person:Xiaodong Gu", "conf": 0.95, "src": "full_name"}
+{"phrase": "xg", "person_id": "person:Xiaodong Gu", "conf": 0.5, "src": "initials"}
+{"phrase": "x gu", "person_id": "person:Xiaodong Gu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of towards dropout training for convol", "person_id": "person:Xiaodong Gu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "haibing wu", "person_id": "person:Haibing Wu", "conf": 0.95, "src": "full_name"}
+{"phrase": "hw", "person_id": "person:Haibing Wu", "conf": 0.5, "src": "initials"}
+{"phrase": "h wu", "person_id": "person:Haibing Wu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of towards dropout training for convol", "person_id": "person:Haibing Wu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "allan zhou", "person_id": "person:Allan Zhou", "conf": 0.95, "src": "full_name"}
+{"phrase": "az", "person_id": "person:Allan Zhou", "conf": 0.5, "src": "initials"}
+{"phrase": "a zhou", "person_id": "person:Allan Zhou", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Allan Zhou", "conf": 0.8, "src": "paper_title"}
+{"phrase": "oliver schütze", "person_id": "person:Oliver Schütze", "conf": 0.95, "src": "full_name"}
+{"phrase": "os", "person_id": "person:Oliver Schütze", "conf": 0.5, "src": "initials"}
+{"phrase": "o schütze", "person_id": "person:Oliver Schütze", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a neural network-evolutionary compu", "person_id": "person:Oliver Schütze", "conf": 0.8, "src": "paper_title"}
+{"phrase": "alex ranne", "person_id": "person:Alex Ranne", "conf": 0.95, "src": "full_name"}
+{"phrase": "ar", "person_id": "person:Alex Ranne", "conf": 0.5, "src": "initials"}
+{"phrase": "a ranne", "person_id": "person:Alex Ranne", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of malleable robots", "person_id": "person:Alex Ranne", "conf": 0.8, "src": "paper_title"}
+{"phrase": "razvan surdulescu", "person_id": "person:Razvan Surdulescu", "conf": 0.95, "src": "full_name"}
+{"phrase": "rs", "person_id": "person:Razvan Surdulescu", "conf": 0.5, "src": "initials"}
+{"phrase": "r surdulescu", "person_id": "person:Razvan Surdulescu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Razvan Surdulescu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "matin macktoobian", "person_id": "person:Matin Macktoobian", "conf": 0.95, "src": "full_name"}
+{"phrase": "mm", "person_id": "person:Matin Macktoobian", "conf": 0.5, "src": "initials"}
+{"phrase": "m macktoobian", "person_id": "person:Matin Macktoobian", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of learning optimal topology for ad-ho", "person_id": "person:Matin Macktoobian", "conf": 0.8, "src": "paper_title"}
+{"phrase": "gordon cheng", "person_id": "person:Gordon Cheng", "conf": 0.95, "src": "full_name"}
+{"phrase": "gc", "person_id": "person:Gordon Cheng", "conf": 0.5, "src": "initials"}
+{"phrase": "g cheng", "person_id": "person:Gordon Cheng", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a review on neural network models o", "person_id": "person:Gordon Cheng", "conf": 0.8, "src": "paper_title"}
+{"phrase": "nan sun", "person_id": "person:Nan Sun", "conf": 0.95, "src": "full_name"}
+{"phrase": "ns", "person_id": "person:Nan Sun", "conf": 0.5, "src": "initials"}
+{"phrase": "n sun", "person_id": "person:Nan Sun", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Nan Sun", "conf": 0.8, "src": "paper_title"}
+{"phrase": "claus c. hilgetag", "person_id": "person:Claus C. Hilgetag", "conf": 0.95, "src": "full_name"}
+{"phrase": "ch", "person_id": "person:Claus C. Hilgetag", "conf": 0.5, "src": "initials"}
+{"phrase": "c hilgetag", "person_id": "person:Claus C. Hilgetag", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of optimal hierarchical modular topolo", "person_id": "person:Claus C. Hilgetag", "conf": 0.8, "src": "paper_title"}
+{"phrase": "claudio fantacci", "person_id": "person:Claudio Fantacci", "conf": 0.95, "src": "full_name"}
+{"phrase": "cf", "person_id": "person:Claudio Fantacci", "conf": 0.5, "src": "initials"}
+{"phrase": "c fantacci", "person_id": "person:Claudio Fantacci", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Claudio Fantacci", "conf": 0.8, "src": "paper_title"}
+{"phrase": "debidatta dwibedi", "person_id": "person:Debidatta Dwibedi", "conf": 0.95, "src": "full_name"}
+{"phrase": "dd", "person_id": "person:Debidatta Dwibedi", "conf": 0.5, "src": "initials"}
+{"phrase": "d dwibedi", "person_id": "person:Debidatta Dwibedi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Debidatta Dwibedi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "krista reymann", "person_id": "person:Krista Reymann", "conf": 0.95, "src": "full_name"}
+{"phrase": "kr", "person_id": "person:Krista Reymann", "conf": 0.5, "src": "initials"}
+{"phrase": "k reymann", "person_id": "person:Krista Reymann", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Krista Reymann", "conf": 0.8, "src": "paper_title"}
+{"phrase": "thomas kipf", "person_id": "person:Thomas Kipf", "conf": 0.95, "src": "full_name"}
+{"phrase": "tk", "person_id": "person:Thomas Kipf", "conf": 0.5, "src": "initials"}
+{"phrase": "t kipf", "person_id": "person:Thomas Kipf", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Thomas Kipf", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zhaoyin chen", "person_id": "person:Zhaoyin Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "zc", "person_id": "person:Zhaoyin Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "z chen", "person_id": "person:Zhaoyin Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a neural network-evolutionary compu", "person_id": "person:Zhaoyin Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rujia yang", "person_id": "person:Rujia Yang", "conf": 0.95, "src": "full_name"}
+{"phrase": "ry", "person_id": "person:Rujia Yang", "conf": 0.5, "src": "initials"}
+{"phrase": "r yang", "person_id": "person:Rujia Yang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of fp3: a 3d foundation policy for rob", "person_id": "person:Rujia Yang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "armand joulin", "person_id": "person:Armand Joulin", "conf": 0.95, "src": "full_name"}
+{"phrase": "aj", "person_id": "person:Armand Joulin", "conf": 0.5, "src": "initials"}
+{"phrase": "a joulin", "person_id": "person:Armand Joulin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of predicting video features without d", "person_id": "person:Armand Joulin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "carolina parada", "person_id": "person:Carolina Parada", "conf": 0.95, "src": "full_name"}
+{"phrase": "cp", "person_id": "person:Carolina Parada", "conf": 0.5, "src": "initials"}
+{"phrase": "c parada", "person_id": "person:Carolina Parada", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Carolina Parada", "conf": 0.8, "src": "paper_title"}
+{"phrase": "vadim sheinin", "person_id": "person:Vadim Sheinin", "conf": 0.95, "src": "full_name"}
+{"phrase": "vs", "person_id": "person:Vadim Sheinin", "conf": 0.5, "src": "initials"}
+{"phrase": "v sheinin", "person_id": "person:Vadim Sheinin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of robust tabular foundation models", "person_id": "person:Vadim Sheinin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "robert rosenbaum", "person_id": "person:Robert Rosenbaum", "conf": 0.95, "src": "full_name"}
+{"phrase": "rr", "person_id": "person:Robert Rosenbaum", "conf": 0.5, "src": "initials"}
+{"phrase": "r rosenbaum", "person_id": "person:Robert Rosenbaum", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of deep predictive coding networks for", "person_id": "person:Robert Rosenbaum", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mathilde caron", "person_id": "person:Mathilde Caron", "conf": 0.95, "src": "full_name"}
+{"phrase": "mc", "person_id": "person:Mathilde Caron", "conf": 0.5, "src": "initials"}
+{"phrase": "m caron", "person_id": "person:Mathilde Caron", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of v-jepa 2: video joint embedding pre", "person_id": "person:Mathilde Caron", "conf": 0.8, "src": "paper_title"}
+{"phrase": "konstantinos bousmalis", "person_id": "person:Konstantinos Bousmalis", "conf": 0.95, "src": "full_name"}
+{"phrase": "kb", "person_id": "person:Konstantinos Bousmalis", "conf": 0.5, "src": "initials"}
+{"phrase": "k bousmalis", "person_id": "person:Konstantinos Bousmalis", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Konstantinos Bousmalis", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yukie nagai", "person_id": "person:Yukie Nagai", "conf": 0.95, "src": "full_name"}
+{"phrase": "yn", "person_id": "person:Yukie Nagai", "conf": 0.5, "src": "initials"}
+{"phrase": "y nagai", "person_id": "person:Yukie Nagai", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a review on neural network models o", "person_id": "person:Yukie Nagai", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hsin cheng", "person_id": "person:Hsin Cheng", "conf": 0.95, "src": "full_name"}
+{"phrase": "hc", "person_id": "person:Hsin Cheng", "conf": 0.5, "src": "initials"}
+{"phrase": "h cheng", "person_id": "person:Hsin Cheng", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:Hsin Cheng", "conf": 0.8, "src": "paper_title"}
+{"phrase": "laura graesser", "person_id": "person:Laura Graesser", "conf": 0.95, "src": "full_name"}
+{"phrase": "lg", "person_id": "person:Laura Graesser", "conf": 0.5, "src": "initials"}
+{"phrase": "l graesser", "person_id": "person:Laura Graesser", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Laura Graesser", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rajesh rao", "person_id": "person:Rajesh Rao", "conf": 0.95, "src": "full_name"}
+{"phrase": "rr", "person_id": "person:Rajesh Rao", "conf": 0.5, "src": "initials"}
+{"phrase": "r rao", "person_id": "person:Rajesh Rao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of deep predictive coding networks for", "person_id": "person:Rajesh Rao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "anurag arnab", "person_id": "person:Anurag Arnab", "conf": 0.95, "src": "full_name"}
+{"phrase": "aa", "person_id": "person:Anurag Arnab", "conf": 0.5, "src": "initials"}
+{"phrase": "a arnab", "person_id": "person:Anurag Arnab", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of imagebind as a universal perceptual", "person_id": "person:Anurag Arnab", "conf": 0.8, "src": "paper_title"}
+{"phrase": "saleem a. al dajani", "person_id": "person:Saleem A. Al Dajani", "conf": 0.95, "src": "full_name"}
+{"phrase": "sd", "person_id": "person:Saleem A. Al Dajani", "conf": 0.5, "src": "initials"}
+{"phrase": "s dajani", "person_id": "person:Saleem A. Al Dajani", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of deepseq: high-throughput single-cel", "person_id": "person:Saleem A. Al Dajani", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ilan breskin", "person_id": "person:Ilan Breskin", "conf": 0.95, "src": "full_name"}
+{"phrase": "ib", "person_id": "person:Ilan Breskin", "conf": 0.5, "src": "initials"}
+{"phrase": "i breskin", "person_id": "person:Ilan Breskin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of percolation approach to study conne", "person_id": "person:Ilan Breskin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "qiao sun", "person_id": "person:Qiao Sun", "conf": 0.95, "src": "full_name"}
+{"phrase": "qs", "person_id": "person:Qiao Sun", "conf": 0.5, "src": "initials"}
+{"phrase": "q sun", "person_id": "person:Qiao Sun", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Qiao Sun", "conf": 0.8, "src": "paper_title"}
+{"phrase": "octavio villarreal", "person_id": "person:Octavio Villarreal", "conf": 0.95, "src": "full_name"}
+{"phrase": "ov", "person_id": "person:Octavio Villarreal", "conf": 0.5, "src": "initials"}
+{"phrase": "o villarreal", "person_id": "person:Octavio Villarreal", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of vital: vision-based terrain-aware l", "person_id": "person:Octavio Villarreal", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sharath maddineni", "person_id": "person:Sharath Maddineni", "conf": 0.95, "src": "full_name"}
+{"phrase": "sm", "person_id": "person:Sharath Maddineni", "conf": 0.5, "src": "initials"}
+{"phrase": "s maddineni", "person_id": "person:Sharath Maddineni", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Sharath Maddineni", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rui yao", "person_id": "person:Rui Yao", "conf": 0.95, "src": "full_name"}
+{"phrase": "ry", "person_id": "person:Rui Yao", "conf": 0.5, "src": "initials"}
+{"phrase": "r yao", "person_id": "person:Rui Yao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Rui Yao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "mahdi cherti", "person_id": "person:Mahdi Cherti", "conf": 0.95, "src": "full_name"}
+{"phrase": "mc", "person_id": "person:Mahdi Cherti", "conf": 0.5, "src": "initials"}
+{"phrase": "m cherti", "person_id": "person:Mahdi Cherti", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of joint embedding predictive architec", "person_id": "person:Mahdi Cherti", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yaonan zhu", "person_id": "person:Yaonan Zhu", "conf": 0.95, "src": "full_name"}
+{"phrase": "yz", "person_id": "person:Yaonan Zhu", "conf": 0.5, "src": "initials"}
+{"phrase": "y zhu", "person_id": "person:Yaonan Zhu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of enhancing the llm-based robot manip", "person_id": "person:Yaonan Zhu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ugo rosolia", "person_id": "person:Ugo Rosolia", "conf": 0.95, "src": "full_name"}
+{"phrase": "ur", "person_id": "person:Ugo Rosolia", "conf": 0.5, "src": "initials"}
+{"phrase": "u rosolia", "person_id": "person:Ugo Rosolia", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Ugo Rosolia", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lantao liu", "person_id": "person:Lantao Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "ll", "person_id": "person:Lantao Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "l liu", "person_id": "person:Lantao Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of action flow matching for continual ", "person_id": "person:Lantao Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hai shu", "person_id": "person:Hai Shu", "conf": 0.95, "src": "full_name"}
+{"phrase": "hs", "person_id": "person:Hai Shu", "conf": 0.5, "src": "initials"}
+{"phrase": "h shu", "person_id": "person:Hai Shu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of mfi-pso: a flexible and effective m", "person_id": "person:Hai Shu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "pablo lanillos", "person_id": "person:Pablo Lanillos", "conf": 0.95, "src": "full_name"}
+{"phrase": "pl", "person_id": "person:Pablo Lanillos", "conf": 0.5, "src": "initials"}
+{"phrase": "p lanillos", "person_id": "person:Pablo Lanillos", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a review on neural network models o", "person_id": "person:Pablo Lanillos", "conf": 0.8, "src": "paper_title"}
+{"phrase": "james halverson", "person_id": "person:James Halverson", "conf": 0.95, "src": "full_name"}
+{"phrase": "jh", "person_id": "person:James Halverson", "conf": 0.5, "src": "initials"}
+{"phrase": "j halverson", "person_id": "person:James Halverson", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of training dynamics of jepa: when do ", "person_id": "person:James Halverson", "conf": 0.8, "src": "paper_title"}
+{"phrase": "arunkumar byravan", "person_id": "person:Arunkumar Byravan", "conf": 0.95, "src": "full_name"}
+{"phrase": "ab", "person_id": "person:Arunkumar Byravan", "conf": 0.5, "src": "initials"}
+{"phrase": "a byravan", "person_id": "person:Arunkumar Byravan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Arunkumar Byravan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tadayoshi aoyama", "person_id": "person:Tadayoshi Aoyama", "conf": 0.95, "src": "full_name"}
+{"phrase": "ta", "person_id": "person:Tadayoshi Aoyama", "conf": 0.5, "src": "initials"}
+{"phrase": "t aoyama", "person_id": "person:Tadayoshi Aoyama", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of enhancing the llm-based robot manip", "person_id": "person:Tadayoshi Aoyama", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zhan shu", "person_id": "person:Zhan Shu", "conf": 0.95, "src": "full_name"}
+{"phrase": "zs", "person_id": "person:Zhan Shu", "conf": 0.5, "src": "initials"}
+{"phrase": "z shu", "person_id": "person:Zhan Shu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of learning optimal topology for ad-ho", "person_id": "person:Zhan Shu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yixin lin", "person_id": "person:Yixin Lin", "conf": 0.95, "src": "full_name"}
+{"phrase": "yl", "person_id": "person:Yixin Lin", "conf": 0.5, "src": "initials"}
+{"phrase": "y lin", "person_id": "person:Yixin Lin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Yixin Lin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "abhishek jindal", "person_id": "person:Abhishek Jindal", "conf": 0.95, "src": "full_name"}
+{"phrase": "aj", "person_id": "person:Abhishek Jindal", "conf": 0.5, "src": "initials"}
+{"phrase": "a jindal", "person_id": "person:Abhishek Jindal", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Abhishek Jindal", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jie tan", "person_id": "person:Jie Tan", "conf": 0.95, "src": "full_name"}
+{"phrase": "jt", "person_id": "person:Jie Tan", "conf": 0.5, "src": "initials"}
+{"phrase": "j tan", "person_id": "person:Jie Tan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Jie Tan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "r. alex hofer", "person_id": "person:R. Alex Hofer", "conf": 0.95, "src": "full_name"}
+{"phrase": "rh", "person_id": "person:R. Alex Hofer", "conf": 0.5, "src": "initials"}
+{"phrase": "r hofer", "person_id": "person:R. Alex Hofer", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:R. Alex Hofer", "conf": 0.8, "src": "paper_title"}
+{"phrase": "qiran jia", "person_id": "person:Qiran Jia", "conf": 0.95, "src": "full_name"}
+{"phrase": "qj", "person_id": "person:Qiran Jia", "conf": 0.5, "src": "initials"}
+{"phrase": "q jia", "person_id": "person:Qiran Jia", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of mfi-pso: a flexible and effective m", "person_id": "person:Qiran Jia", "conf": 0.8, "src": "paper_title"}
+{"phrase": "francisco m. couto", "person_id": "person:Francisco M. Couto", "conf": 0.95, "src": "full_name"}
+{"phrase": "fc", "person_id": "person:Francisco M. Couto", "conf": 0.5, "src": "initials"}
+{"phrase": "f couto", "person_id": "person:Francisco M. Couto", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of using neural networks for relation ", "person_id": "person:Francisco M. Couto", "conf": 0.8, "src": "paper_title"}
+{"phrase": "qing li", "person_id": "person:Qing Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "ql", "person_id": "person:Qing Li", "conf": 0.5, "src": "initials"}
+{"phrase": "q li", "person_id": "person:Qing Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Qing Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "anthony brohan", "person_id": "person:Anthony Brohan", "conf": 0.95, "src": "full_name"}
+{"phrase": "ab", "person_id": "person:Anthony Brohan", "conf": 0.5, "src": "initials"}
+{"phrase": "a brohan", "person_id": "person:Anthony Brohan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Anthony Brohan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "emilio parisotto", "person_id": "person:Emilio Parisotto", "conf": 0.95, "src": "full_name"}
+{"phrase": "ep", "person_id": "person:Emilio Parisotto", "conf": 0.5, "src": "initials"}
+{"phrase": "e parisotto", "person_id": "person:Emilio Parisotto", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Emilio Parisotto", "conf": 0.8, "src": "paper_title"}
+{"phrase": "robert baruch", "person_id": "person:Robert Baruch", "conf": 0.95, "src": "full_name"}
+{"phrase": "rb", "person_id": "person:Robert Baruch", "conf": 0.5, "src": "initials"}
+{"phrase": "r baruch", "person_id": "person:Robert Baruch", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Robert Baruch", "conf": 0.8, "src": "paper_title"}
+{"phrase": "wenhao yu", "person_id": "person:Wenhao Yu", "conf": 0.95, "src": "full_name"}
+{"phrase": "wy", "person_id": "person:Wenhao Yu", "conf": 0.5, "src": "initials"}
+{"phrase": "w yu", "person_id": "person:Wenhao Yu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Wenhao Yu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "andrea cossu", "person_id": "person:Andrea Cossu", "conf": 0.95, "src": "full_name"}
+{"phrase": "ac", "person_id": "person:Andrea Cossu", "conf": 0.5, "src": "initials"}
+{"phrase": "a cossu", "person_id": "person:Andrea Cossu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of continual learning for recurrent ne", "person_id": "person:Andrea Cossu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jian-qiao sun", "person_id": "person:Jian-Qiao Sun", "conf": 0.95, "src": "full_name"}
+{"phrase": "js", "person_id": "person:Jian-Qiao Sun", "conf": 0.5, "src": "initials"}
+{"phrase": "j sun", "person_id": "person:Jian-Qiao Sun", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a neural network-evolutionary compu", "person_id": "person:Jian-Qiao Sun", "conf": 0.8, "src": "paper_title"}
+{"phrase": "saminda abeyruwan", "person_id": "person:Saminda Abeyruwan", "conf": 0.95, "src": "full_name"}
+{"phrase": "sa", "person_id": "person:Saminda Abeyruwan", "conf": 0.5, "src": "initials"}
+{"phrase": "s abeyruwan", "person_id": "person:Saminda Abeyruwan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Saminda Abeyruwan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zhuorong li", "person_id": "person:Zhuorong Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "zl", "person_id": "person:Zhuorong Li", "conf": 0.5, "src": "initials"}
+{"phrase": "z li", "person_id": "person:Zhuorong Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Zhuorong Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "andrew marmon", "person_id": "person:Andrew Marmon", "conf": 0.95, "src": "full_name"}
+{"phrase": "am", "person_id": "person:Andrew Marmon", "conf": 0.5, "src": "initials"}
+{"phrase": "a marmon", "person_id": "person:Andrew Marmon", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Andrew Marmon", "conf": 0.8, "src": "paper_title"}
+{"phrase": "akansel cosgun", "person_id": "person:Akansel Cosgun", "conf": 0.95, "src": "full_name"}
+{"phrase": "ac", "person_id": "person:Akansel Cosgun", "conf": 0.5, "src": "initials"}
+{"phrase": "a cosgun", "person_id": "person:Akansel Cosgun", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Akansel Cosgun", "conf": 0.8, "src": "paper_title"}
+{"phrase": "vijay kumar", "person_id": "person:Vijay Kumar", "conf": 0.95, "src": "full_name"}
+{"phrase": "vk", "person_id": "person:Vijay Kumar", "conf": 0.5, "src": "initials"}
+{"phrase": "v kumar", "person_id": "person:Vijay Kumar", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of active metric-semantic mapping by m", "person_id": "person:Vijay Kumar", "conf": 0.8, "src": "paper_title"}
+{"phrase": "fei-fei li", "person_id": "person:Fei-Fei Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "fl", "person_id": "person:Fei-Fei Li", "conf": 0.5, "src": "initials"}
+{"phrase": "f li", "person_id": "person:Fei-Fei Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of diffusion world models for visual p", "person_id": "person:Fei-Fei Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "reuben aronson", "person_id": "person:Reuben Aronson", "conf": 0.95, "src": "full_name"}
+{"phrase": "ra", "person_id": "person:Reuben Aronson", "conf": 0.5, "src": "initials"}
+{"phrase": "r aronson", "person_id": "person:Reuben Aronson", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of towards interpretable foundation mo", "person_id": "person:Reuben Aronson", "conf": 0.8, "src": "paper_title"}
+{"phrase": "caoyu xia", "person_id": "person:Caoyu Xia", "conf": 0.95, "src": "full_name"}
+{"phrase": "cx", "person_id": "person:Caoyu Xia", "conf": 0.5, "src": "initials"}
+{"phrase": "c xia", "person_id": "person:Caoyu Xia", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Caoyu Xia", "conf": 0.8, "src": "paper_title"}
+{"phrase": "peiran xu", "person_id": "person:Peiran Xu", "conf": 0.95, "src": "full_name"}
+{"phrase": "px", "person_id": "person:Peiran Xu", "conf": 0.5, "src": "initials"}
+{"phrase": "p xu", "person_id": "person:Peiran Xu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Peiran Xu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ying xu", "person_id": "person:Ying Xu", "conf": 0.95, "src": "full_name"}
+{"phrase": "yx", "person_id": "person:Ying Xu", "conf": 0.5, "src": "initials"}
+{"phrase": "y xu", "person_id": "person:Ying Xu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Ying Xu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "alexander herzog", "person_id": "person:Alexander Herzog", "conf": 0.95, "src": "full_name"}
+{"phrase": "ah", "person_id": "person:Alexander Herzog", "conf": 0.5, "src": "initials"}
+{"phrase": "a herzog", "person_id": "person:Alexander Herzog", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Alexander Herzog", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rik girod", "person_id": "person:Rik Girod", "conf": 0.95, "src": "full_name"}
+{"phrase": "rg", "person_id": "person:Rik Girod", "conf": 0.5, "src": "initials"}
+{"phrase": "r girod", "person_id": "person:Rik Girod", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of task adaptation in industrial human", "person_id": "person:Rik Girod", "conf": 0.8, "src": "paper_title"}
+{"phrase": "piaopiao jin", "person_id": "person:Piaopiao Jin", "conf": 0.95, "src": "full_name"}
+{"phrase": "pj", "person_id": "person:Piaopiao Jin", "conf": 0.5, "src": "initials"}
+{"phrase": "p jin", "person_id": "person:Piaopiao Jin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Piaopiao Jin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "rohit girdhar", "person_id": "person:Rohit Girdhar", "conf": 0.95, "src": "full_name"}
+{"phrase": "rg", "person_id": "person:Rohit Girdhar", "conf": 0.5, "src": "initials"}
+{"phrase": "r girdhar", "person_id": "person:Rohit Girdhar", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of imagebind++: expanding the six-way ", "person_id": "person:Rohit Girdhar", "conf": 0.8, "src": "paper_title"}
+{"phrase": "han zhao", "person_id": "person:Han Zhao", "conf": 0.95, "src": "full_name"}
+{"phrase": "hz", "person_id": "person:Han Zhao", "conf": 0.5, "src": "initials"}
+{"phrase": "h zhao", "person_id": "person:Han Zhao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Han Zhao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "marcos faundez-zanuy", "person_id": "person:Marcos Faundez-Zanuy", "conf": 0.95, "src": "full_name"}
+{"phrase": "mf", "person_id": "person:Marcos Faundez-Zanuy", "conf": 0.5, "src": "initials"}
+{"phrase": "m faundez-zanuy", "person_id": "person:Marcos Faundez-Zanuy", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of study of a committee of neural netw", "person_id": "person:Marcos Faundez-Zanuy", "conf": 0.8, "src": "paper_title"}
+{"phrase": "karthik dantu", "person_id": "person:Karthik Dantu", "conf": 0.95, "src": "full_name"}
+{"phrase": "kd", "person_id": "person:Karthik Dantu", "conf": 0.5, "src": "initials"}
+{"phrase": "k dantu", "person_id": "person:Karthik Dantu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of design of an adaptive lightweight l", "person_id": "person:Karthik Dantu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "kathryn shea", "person_id": "person:Kathryn Shea", "conf": 0.95, "src": "full_name"}
+{"phrase": "ks", "person_id": "person:Kathryn Shea", "conf": 0.5, "src": "initials"}
+{"phrase": "k shea", "person_id": "person:Kathryn Shea", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Kathryn Shea", "conf": 0.8, "src": "paper_title"}
+{"phrase": "chuan wen", "person_id": "person:Chuan Wen", "conf": 0.95, "src": "full_name"}
+{"phrase": "cw", "person_id": "person:Chuan Wen", "conf": 0.5, "src": "initials"}
+{"phrase": "c wen", "person_id": "person:Chuan Wen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of fp3: a 3d foundation policy for rob", "person_id": "person:Chuan Wen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "gustavo carneiro", "person_id": "person:Gustavo Carneiro", "conf": 0.95, "src": "full_name"}
+{"phrase": "gc", "person_id": "person:Gustavo Carneiro", "conf": 0.5, "src": "initials"}
+{"phrase": "g carneiro", "person_id": "person:Gustavo Carneiro", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Gustavo Carneiro", "conf": 0.8, "src": "paper_title"}
+{"phrase": "heng qu", "person_id": "person:Heng Qu", "conf": 0.95, "src": "full_name"}
+{"phrase": "hq", "person_id": "person:Heng Qu", "conf": 0.5, "src": "initials"}
+{"phrase": "h qu", "person_id": "person:Heng Qu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Heng Qu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yinbo chen", "person_id": "person:Yinbo Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "yc", "person_id": "person:Yinbo Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "y chen", "person_id": "person:Yinbo Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of bind what matters: efficient fine-t", "person_id": "person:Yinbo Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "claudio semini", "person_id": "person:Claudio Semini", "conf": 0.95, "src": "full_name"}
+{"phrase": "cs", "person_id": "person:Claudio Semini", "conf": 0.5, "src": "initials"}
+{"phrase": "c semini", "person_id": "person:Claudio Semini", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of vital: vision-based terrain-aware l", "person_id": "person:Claudio Semini", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ken caluwaerts", "person_id": "person:Ken Caluwaerts", "conf": 0.95, "src": "full_name"}
+{"phrase": "kc", "person_id": "person:Ken Caluwaerts", "conf": 0.5, "src": "initials"}
+{"phrase": "k caluwaerts", "person_id": "person:Ken Caluwaerts", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Ken Caluwaerts", "conf": 0.8, "src": "paper_title"}
+{"phrase": "optimus qin", "person_id": "person:Optimus Qin", "conf": 0.95, "src": "full_name"}
+{"phrase": "oq", "person_id": "person:Optimus Qin", "conf": 0.5, "src": "initials"}
+{"phrase": "o qin", "person_id": "person:Optimus Qin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Optimus Qin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "marcus kaiser", "person_id": "person:Marcus Kaiser", "conf": 0.95, "src": "full_name"}
+{"phrase": "mk", "person_id": "person:Marcus Kaiser", "conf": 0.5, "src": "initials"}
+{"phrase": "m kaiser", "person_id": "person:Marcus Kaiser", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of optimal hierarchical modular topolo", "person_id": "person:Marcus Kaiser", "conf": 0.8, "src": "paper_title"}
+{"phrase": "irwin king", "person_id": "person:Irwin King", "conf": 0.95, "src": "full_name"}
+{"phrase": "ik", "person_id": "person:Irwin King", "conf": 0.5, "src": "initials"}
+{"phrase": "i king", "person_id": "person:Irwin King", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of mecch: metapath context convolution", "person_id": "person:Irwin King", "conf": 0.8, "src": "paper_title"}
+{"phrase": "charles shu", "person_id": "person:Charles Shu", "conf": 0.95, "src": "full_name"}
+{"phrase": "cs", "person_id": "person:Charles Shu", "conf": 0.5, "src": "initials"}
+{"phrase": "c shu", "person_id": "person:Charles Shu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Charles Shu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "dushmanta mallick", "person_id": "person:Dushmanta Mallick", "conf": 0.95, "src": "full_name"}
+{"phrase": "dm", "person_id": "person:Dushmanta Mallick", "conf": 0.5, "src": "initials"}
+{"phrase": "d mallick", "person_id": "person:Dushmanta Mallick", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of existence and global logarithmic st", "person_id": "person:Dushmanta Mallick", "conf": 0.8, "src": "paper_title"}
+{"phrase": "peng xu", "person_id": "person:Peng Xu", "conf": 0.95, "src": "full_name"}
+{"phrase": "px", "person_id": "person:Peng Xu", "conf": 0.5, "src": "initials"}
+{"phrase": "p xu", "person_id": "person:Peng Xu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Peng Xu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ziqi chen", "person_id": "person:Ziqi Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "zc", "person_id": "person:Ziqi Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "z chen", "person_id": "person:Ziqi Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of mfi-pso: a flexible and effective m", "person_id": "person:Ziqi Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sichun xu", "person_id": "person:Sichun Xu", "conf": 0.95, "src": "full_name"}
+{"phrase": "sx", "person_id": "person:Sichun Xu", "conf": 0.5, "src": "initials"}
+{"phrase": "s xu", "person_id": "person:Sichun Xu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Sichun Xu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "stefani karp", "person_id": "person:Stefani Karp", "conf": 0.95, "src": "full_name"}
+{"phrase": "sk", "person_id": "person:Stefani Karp", "conf": 0.5, "src": "initials"}
+{"phrase": "s karp", "person_id": "person:Stefani Karp", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Stefani Karp", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xinyu fu", "person_id": "person:Xinyu Fu", "conf": 0.95, "src": "full_name"}
+{"phrase": "xf", "person_id": "person:Xinyu Fu", "conf": 0.5, "src": "initials"}
+{"phrase": "x fu", "person_id": "person:Xinyu Fu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of mecch: metapath context convolution", "person_id": "person:Xinyu Fu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "marco leonetti", "person_id": "person:Marco Leonetti", "conf": 0.95, "src": "full_name"}
+{"phrase": "ml", "person_id": "person:Marco Leonetti", "conf": 0.5, "src": "initials"}
+{"phrase": "m leonetti", "person_id": "person:Marco Leonetti", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of effect of dilution in asymmetric re", "person_id": "person:Marco Leonetti", "conf": 0.8, "src": "paper_title"}
+{"phrase": "keerthana gopalakrishnan", "person_id": "person:Keerthana Gopalakrishnan", "conf": 0.95, "src": "full_name"}
+{"phrase": "kg", "person_id": "person:Keerthana Gopalakrishnan", "conf": 0.5, "src": "initials"}
+{"phrase": "k gopalakrishnan", "person_id": "person:Keerthana Gopalakrishnan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Keerthana Gopalakrishnan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "l. b. litinskii", "person_id": "person:L. B. Litinskii", "conf": 0.95, "src": "full_name"}
+{"phrase": "ll", "person_id": "person:L. B. Litinskii", "conf": 0.5, "src": "initials"}
+{"phrase": "l litinskii", "person_id": "person:L. B. Litinskii", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of parametrical neural network", "person_id": "person:L. B. Litinskii", "conf": 0.8, "src": "paper_title"}
+{"phrase": "priya goyal", "person_id": "person:Priya Goyal", "conf": 0.95, "src": "full_name"}
+{"phrase": "pg", "person_id": "person:Priya Goyal", "conf": 0.5, "src": "initials"}
+{"phrase": "p goyal", "person_id": "person:Priya Goyal", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of predicting video features without d", "person_id": "person:Priya Goyal", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ilija ilievski", "person_id": "person:Ilija Ilievski", "conf": 0.95, "src": "full_name"}
+{"phrase": "ii", "person_id": "person:Ilija Ilievski", "conf": 0.5, "src": "initials"}
+{"phrase": "i ilievski", "person_id": "person:Ilija Ilievski", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of learning active subspaces and disco", "person_id": "person:Ilija Ilievski", "conf": 0.8, "src": "paper_title"}
+{"phrase": "thomas buschmann", "person_id": "person:Thomas Buschmann", "conf": 0.95, "src": "full_name"}
+{"phrase": "tb", "person_id": "person:Thomas Buschmann", "conf": 0.5, "src": "initials"}
+{"phrase": "t buschmann", "person_id": "person:Thomas Buschmann", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Thomas Buschmann", "conf": 0.8, "src": "paper_title"}
+{"phrase": "anirudha majumdar", "person_id": "person:Anirudha Majumdar", "conf": 0.95, "src": "full_name"}
+{"phrase": "am", "person_id": "person:Anirudha Majumdar", "conf": 0.5, "src": "initials"}
+{"phrase": "a majumdar", "person_id": "person:Anirudha Majumdar", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Anirudha Majumdar", "conf": 0.8, "src": "paper_title"}
+{"phrase": "abel sanchez", "person_id": "person:Abel Sanchez", "conf": 0.95, "src": "full_name"}
+{"phrase": "as", "person_id": "person:Abel Sanchez", "conf": 0.5, "src": "initials"}
+{"phrase": "a sanchez", "person_id": "person:Abel Sanchez", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of deepseq: high-throughput single-cel", "person_id": "person:Abel Sanchez", "conf": 0.8, "src": "paper_title"}
+{"phrase": "giancarlo ruocco", "person_id": "person:Giancarlo Ruocco", "conf": 0.95, "src": "full_name"}
+{"phrase": "gr", "person_id": "person:Giancarlo Ruocco", "conf": 0.5, "src": "initials"}
+{"phrase": "g ruocco", "person_id": "person:Giancarlo Ruocco", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of effect of dilution in asymmetric re", "person_id": "person:Giancarlo Ruocco", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ian reid", "person_id": "person:Ian Reid", "conf": 0.95, "src": "full_name"}
+{"phrase": "ir", "person_id": "person:Ian Reid", "conf": 0.5, "src": "initials"}
+{"phrase": "i reid", "person_id": "person:Ian Reid", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Ian Reid", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zhuo xu", "person_id": "person:Zhuo Xu", "conf": 0.95, "src": "full_name"}
+{"phrase": "zx", "person_id": "person:Zhuo Xu", "conf": 0.5, "src": "initials"}
+{"phrase": "z xu", "person_id": "person:Zhuo Xu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Zhuo Xu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "steven bohez", "person_id": "person:Steven Bohez", "conf": 0.95, "src": "full_name"}
+{"phrase": "sb", "person_id": "person:Steven Bohez", "conf": 0.5, "src": "initials"}
+{"phrase": "s bohez", "person_id": "person:Steven Bohez", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Steven Bohez", "conf": 0.8, "src": "paper_title"}
+{"phrase": "diana sousa", "person_id": "person:Diana Sousa", "conf": 0.95, "src": "full_name"}
+{"phrase": "ds", "person_id": "person:Diana Sousa", "conf": 0.5, "src": "initials"}
+{"phrase": "d sousa", "person_id": "person:Diana Sousa", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of using neural networks for relation ", "person_id": "person:Diana Sousa", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tsvi tlusty", "person_id": "person:Tsvi Tlusty", "conf": 0.95, "src": "full_name"}
+{"phrase": "tt", "person_id": "person:Tsvi Tlusty", "conf": 0.5, "src": "initials"}
+{"phrase": "t tlusty", "person_id": "person:Tsvi Tlusty", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of percolation approach to study conne", "person_id": "person:Tsvi Tlusty", "conf": 0.8, "src": "paper_title"}
+{"phrase": "peter corke", "person_id": "person:Peter Corke", "conf": 0.95, "src": "full_name"}
+{"phrase": "pc", "person_id": "person:Peter Corke", "conf": 0.5, "src": "initials"}
+{"phrase": "p corke", "person_id": "person:Peter Corke", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Peter Corke", "conf": 0.8, "src": "paper_title"}
+{"phrase": "brijen thananjeyan", "person_id": "person:Brijen Thananjeyan", "conf": 0.95, "src": "full_name"}
+{"phrase": "bt", "person_id": "person:Brijen Thananjeyan", "conf": 0.5, "src": "initials"}
+{"phrase": "b thananjeyan", "person_id": "person:Brijen Thananjeyan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Brijen Thananjeyan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jingwei zhang", "person_id": "person:Jingwei Zhang", "conf": 0.95, "src": "full_name"}
+{"phrase": "jz", "person_id": "person:Jingwei Zhang", "conf": 0.5, "src": "initials"}
+{"phrase": "j zhang", "person_id": "person:Jingwei Zhang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jingwei Zhang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "feras dayoub", "person_id": "person:Feras Dayoub", "conf": 0.95, "src": "full_name"}
+{"phrase": "fd", "person_id": "person:Feras Dayoub", "conf": 0.5, "src": "initials"}
+{"phrase": "f dayoub", "person_id": "person:Feras Dayoub", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Feras Dayoub", "conf": 0.8, "src": "paper_title"}
+{"phrase": "keisuke shima", "person_id": "person:Keisuke Shima", "conf": 0.95, "src": "full_name"}
+{"phrase": "ks", "person_id": "person:Keisuke Shima", "conf": 0.5, "src": "initials"}
+{"phrase": "k shima", "person_id": "person:Keisuke Shima", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a recurrent probabilistic neural ne", "person_id": "person:Keisuke Shima", "conf": 0.8, "src": "paper_title"}
+{"phrase": "deepali jain", "person_id": "person:Deepali Jain", "conf": 0.95, "src": "full_name"}
+{"phrase": "dj", "person_id": "person:Deepali Jain", "conf": 0.5, "src": "initials"}
+{"phrase": "d jain", "person_id": "person:Deepali Jain", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Deepali Jain", "conf": 0.8, "src": "paper_title"}
+{"phrase": "alireza zareian", "person_id": "person:Alireza Zareian", "conf": 0.95, "src": "full_name"}
+{"phrase": "az", "person_id": "person:Alireza Zareian", "conf": 0.5, "src": "initials"}
+{"phrase": "a zareian", "person_id": "person:Alireza Zareian", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of imagebind++: expanding the six-way ", "person_id": "person:Alireza Zareian", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yasuhisa hasegawa", "person_id": "person:Yasuhisa Hasegawa", "conf": 0.95, "src": "full_name"}
+{"phrase": "yh", "person_id": "person:Yasuhisa Hasegawa", "conf": 0.5, "src": "initials"}
+{"phrase": "y hasegawa", "person_id": "person:Yasuhisa Hasegawa", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of enhancing the llm-based robot manip", "person_id": "person:Yasuhisa Hasegawa", "conf": 0.8, "src": "paper_title"}
+{"phrase": "gian maria marconi", "person_id": "person:Gian Maria Marconi", "conf": 0.95, "src": "full_name"}
+{"phrase": "gm", "person_id": "person:Gian Maria Marconi", "conf": 0.5, "src": "initials"}
+{"phrase": "g marconi", "person_id": "person:Gian Maria Marconi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of structured prediction for crisp inv", "person_id": "person:Gian Maria Marconi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "toshio tsuji", "person_id": "person:Toshio Tsuji", "conf": 0.95, "src": "full_name"}
+{"phrase": "tt", "person_id": "person:Toshio Tsuji", "conf": 0.5, "src": "initials"}
+{"phrase": "t tsuji", "person_id": "person:Toshio Tsuji", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a recurrent probabilistic neural ne", "person_id": "person:Toshio Tsuji", "conf": 0.8, "src": "paper_title"}
+{"phrase": "carlo d'eramo", "person_id": "person:Carlo D'Eramo", "conf": 0.95, "src": "full_name"}
+{"phrase": "cd", "person_id": "person:Carlo D'Eramo", "conf": 0.5, "src": "initials"}
+{"phrase": "c d'eramo", "person_id": "person:Carlo D'Eramo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of model predictive actor-critic: acce", "person_id": "person:Carlo D'Eramo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "goldie nejat", "person_id": "person:Goldie Nejat", "conf": 0.95, "src": "full_name"}
+{"phrase": "gn", "person_id": "person:Goldie Nejat", "conf": 0.5, "src": "initials"}
+{"phrase": "g nejat", "person_id": "person:Goldie Nejat", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of embodied ai with foundation models ", "person_id": "person:Goldie Nejat", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ian d. miller", "person_id": "person:Ian D. Miller", "conf": 0.95, "src": "full_name"}
+{"phrase": "im", "person_id": "person:Ian D. Miller", "conf": 0.5, "src": "initials"}
+{"phrase": "i miller", "person_id": "person:Ian D. Miller", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of active metric-semantic mapping by m", "person_id": "person:Ian D. Miller", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hangjun ye", "person_id": "person:Hangjun Ye", "conf": 0.95, "src": "full_name"}
+{"phrase": "hy", "person_id": "person:Hangjun Ye", "conf": 0.5, "src": "initials"}
+{"phrase": "h ye", "person_id": "person:Hangjun Ye", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Hangjun Ye", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sean kirmani", "person_id": "person:Sean Kirmani", "conf": 0.95, "src": "full_name"}
+{"phrase": "sk", "person_id": "person:Sean Kirmani", "conf": 0.5, "src": "initials"}
+{"phrase": "s kirmani", "person_id": "person:Sean Kirmani", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Sean Kirmani", "conf": 0.8, "src": "paper_title"}
+{"phrase": "david ha", "person_id": "person:David Ha", "conf": 0.95, "src": "full_name"}
+{"phrase": "dh", "person_id": "person:David Ha", "conf": 0.5, "src": "initials"}
+{"phrase": "d ha", "person_id": "person:David Ha", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world models revisited: scaling lat", "person_id": "person:David Ha", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ninghao lu", "person_id": "person:Ninghao Lu", "conf": 0.95, "src": "full_name"}
+{"phrase": "nl", "person_id": "person:Ninghao Lu", "conf": 0.5, "src": "initials"}
+{"phrase": "n lu", "person_id": "person:Ninghao Lu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world-gymnast: training robots with", "person_id": "person:Ninghao Lu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "hongtu zhu", "person_id": "person:Hongtu Zhu", "conf": 0.95, "src": "full_name"}
+{"phrase": "hz", "person_id": "person:Hongtu Zhu", "conf": 0.5, "src": "initials"}
+{"phrase": "h zhu", "person_id": "person:Hongtu Zhu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of mfi-pso: a flexible and effective m", "person_id": "person:Hongtu Zhu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "eduardo castelló ferrer", "person_id": "person:Eduardo Castelló Ferrer", "conf": 0.95, "src": "full_name"}
+{"phrase": "ef", "person_id": "person:Eduardo Castelló Ferrer", "conf": 0.5, "src": "initials"}
+{"phrase": "e ferrer", "person_id": "person:Eduardo Castelló Ferrer", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of secure and secret cooperation in ro", "person_id": "person:Eduardo Castelló Ferrer", "conf": 0.8, "src": "paper_title"}
+{"phrase": "edward lee", "person_id": "person:Edward Lee", "conf": 0.95, "src": "full_name"}
+{"phrase": "el", "person_id": "person:Edward Lee", "conf": 0.5, "src": "initials"}
+{"phrase": "e lee", "person_id": "person:Edward Lee", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical joint embeddings for p", "person_id": "person:Edward Lee", "conf": 0.8, "src": "paper_title"}
+{"phrase": "timothy praditia", "person_id": "person:Timothy Praditia", "conf": 0.95, "src": "full_name"}
+{"phrase": "tp", "person_id": "person:Timothy Praditia", "conf": 0.5, "src": "initials"}
+{"phrase": "t praditia", "person_id": "person:Timothy Praditia", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of the deep arbitrary polynomial chaos", "person_id": "person:Timothy Praditia", "conf": 0.8, "src": "paper_title"}
+{"phrase": "markku suomalainen", "person_id": "person:Markku Suomalainen", "conf": 0.95, "src": "full_name"}
+{"phrase": "ms", "person_id": "person:Markku Suomalainen", "conf": 0.5, "src": "initials"}
+{"phrase": "m suomalainen", "person_id": "person:Markku Suomalainen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a survey of robot manipulation in c", "person_id": "person:Markku Suomalainen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "maria bauza", "person_id": "person:Maria Bauza", "conf": 0.95, "src": "full_name"}
+{"phrase": "mb", "person_id": "person:Maria Bauza", "conf": 0.5, "src": "initials"}
+{"phrase": "m bauza", "person_id": "person:Maria Bauza", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Maria Bauza", "conf": 0.8, "src": "paper_title"}
+{"phrase": "chase kew", "person_id": "person:Chase Kew", "conf": 0.95, "src": "full_name"}
+{"phrase": "ck", "person_id": "person:Chase Kew", "conf": 0.5, "src": "initials"}
+{"phrase": "c kew", "person_id": "person:Chase Kew", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Chase Kew", "conf": 0.8, "src": "paper_title"}
+{"phrase": "aviad rubinstein", "person_id": "person:Aviad Rubinstein", "conf": 0.95, "src": "full_name"}
+{"phrase": "ar", "person_id": "person:Aviad Rubinstein", "conf": 0.5, "src": "initials"}
+{"phrase": "a rubinstein", "person_id": "person:Aviad Rubinstein", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of double descent in self-supervised w", "person_id": "person:Aviad Rubinstein", "conf": 0.8, "src": "paper_title"}
+{"phrase": "matthew peroni", "person_id": "person:Matthew Peroni", "conf": 0.95, "src": "full_name"}
+{"phrase": "mp", "person_id": "person:Matthew Peroni", "conf": 0.5, "src": "initials"}
+{"phrase": "m peroni", "person_id": "person:Matthew Peroni", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of robust tabular foundation models", "person_id": "person:Matthew Peroni", "conf": 0.8, "src": "paper_title"}
+{"phrase": "cleber zanchettin", "person_id": "person:Cleber Zanchettin", "conf": 0.95, "src": "full_name"}
+{"phrase": "cz", "person_id": "person:Cleber Zanchettin", "conf": 0.5, "src": "initials"}
+{"phrase": "c zanchettin", "person_id": "person:Cleber Zanchettin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical attentional hybrid neu", "person_id": "person:Cleber Zanchettin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "haokun liu", "person_id": "person:Haokun Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "hl", "person_id": "person:Haokun Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "h liu", "person_id": "person:Haokun Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of enhancing the llm-based robot manip", "person_id": "person:Haokun Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jan humplik", "person_id": "person:Jan Humplik", "conf": 0.95, "src": "full_name"}
+{"phrase": "jh", "person_id": "person:Jan Humplik", "conf": 0.5, "src": "initials"}
+{"phrase": "j humplik", "person_id": "person:Jan Humplik", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jan Humplik", "conf": 0.8, "src": "paper_title"}
+{"phrase": "shamel fahmi", "person_id": "person:Shamel Fahmi", "conf": 0.95, "src": "full_name"}
+{"phrase": "sf", "person_id": "person:Shamel Fahmi", "conf": 0.5, "src": "initials"}
+{"phrase": "s fahmi", "person_id": "person:Shamel Fahmi", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of vital: vision-based terrain-aware l", "person_id": "person:Shamel Fahmi", "conf": 0.8, "src": "paper_title"}
+{"phrase": "john w. sheppard", "person_id": "person:John W. Sheppard", "conf": 0.95, "src": "full_name"}
+{"phrase": "js", "person_id": "person:John W. Sheppard", "conf": 0.5, "src": "initials"}
+{"phrase": "j sheppard", "person_id": "person:John W. Sheppard", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of dual accuracy-quality-driven neural", "person_id": "person:John W. Sheppard", "conf": 0.8, "src": "paper_title"}
+{"phrase": "thomas hardjono", "person_id": "person:Thomas Hardjono", "conf": 0.95, "src": "full_name"}
+{"phrase": "th", "person_id": "person:Thomas Hardjono", "conf": 0.5, "src": "initials"}
+{"phrase": "t hardjono", "person_id": "person:Thomas Hardjono", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of secure and secret cooperation in ro", "person_id": "person:Thomas Hardjono", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yann lecun", "person_id": "person:Yann LeCun", "conf": 0.95, "src": "full_name"}
+{"phrase": "yl", "person_id": "person:Yann LeCun", "conf": 0.5, "src": "initials"}
+{"phrase": "y lecun", "person_id": "person:Yann LeCun", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of v-jepa 2: video joint embedding pre", "person_id": "person:Yann LeCun", "conf": 0.8, "src": "paper_title"}
+{"phrase": "guilherme vieira", "person_id": "person:Guilherme Vieira", "conf": 0.95, "src": "full_name"}
+{"phrase": "gv", "person_id": "person:Guilherme Vieira", "conf": 0.5, "src": "initials"}
+{"phrase": "g vieira", "person_id": "person:Guilherme Vieira", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of acute lymphoblastic leukemia detect", "person_id": "person:Guilherme Vieira", "conf": 0.8, "src": "paper_title"}
+{"phrase": "joshua ainslie", "person_id": "person:Joshua Ainslie", "conf": 0.95, "src": "full_name"}
+{"phrase": "ja", "person_id": "person:Joshua Ainslie", "conf": 0.5, "src": "initials"}
+{"phrase": "j ainslie", "person_id": "person:Joshua Ainslie", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Joshua Ainslie", "conf": 0.8, "src": "paper_title"}
+{"phrase": "stephen gould", "person_id": "person:Stephen Gould", "conf": 0.95, "src": "full_name"}
+{"phrase": "sg", "person_id": "person:Stephen Gould", "conf": 0.5, "src": "initials"}
+{"phrase": "s gould", "person_id": "person:Stephen Gould", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Stephen Gould", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jaeuk shin", "person_id": "person:Jaeuk Shin", "conf": 0.95, "src": "full_name"}
+{"phrase": "js", "person_id": "person:Jaeuk Shin", "conf": 0.5, "src": "initials"}
+{"phrase": "j shin", "person_id": "person:Jaeuk Shin", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of infusing model predictive control i", "person_id": "person:Jaeuk Shin", "conf": 0.8, "src": "paper_title"}
+{"phrase": "danny d'agostino", "person_id": "person:Danny D'Agostino", "conf": 0.95, "src": "full_name"}
+{"phrase": "dd", "person_id": "person:Danny D'Agostino", "conf": 0.5, "src": "initials"}
+{"phrase": "d d'agostino", "person_id": "person:Danny D'Agostino", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of learning active subspaces and disco", "person_id": "person:Danny D'Agostino", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lenworth thomas", "person_id": "person:Lenworth Thomas", "conf": 0.95, "src": "full_name"}
+{"phrase": "lt", "person_id": "person:Lenworth Thomas", "conf": 0.5, "src": "initials"}
+{"phrase": "l thomas", "person_id": "person:Lenworth Thomas", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of design of an adaptive lightweight l", "person_id": "person:Lenworth Thomas", "conf": 0.8, "src": "paper_title"}
+{"phrase": "wenlong chen", "person_id": "person:Wenlong Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "wc", "person_id": "person:Wenlong Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "w chen", "person_id": "person:Wenlong Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Wenlong Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "john r. williams", "person_id": "person:John R. Williams", "conf": 0.95, "src": "full_name"}
+{"phrase": "jw", "person_id": "person:John R. Williams", "conf": 0.5, "src": "initials"}
+{"phrase": "j williams", "person_id": "person:John R. Williams", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of deepseq: high-throughput single-cel", "person_id": "person:John R. Williams", "conf": 0.8, "src": "paper_title"}
+{"phrase": "wanli peng", "person_id": "person:Wanli Peng", "conf": 0.95, "src": "full_name"}
+{"phrase": "wp", "person_id": "person:Wanli Peng", "conf": 0.5, "src": "initials"}
+{"phrase": "w peng", "person_id": "person:Wanli Peng", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Wanli Peng", "conf": 0.8, "src": "paper_title"}
+{"phrase": "matthew lisondra", "person_id": "person:Matthew Lisondra", "conf": 0.95, "src": "full_name"}
+{"phrase": "ml", "person_id": "person:Matthew Lisondra", "conf": 0.5, "src": "initials"}
+{"phrase": "m lisondra", "person_id": "person:Matthew Lisondra", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of embodied ai with foundation models ", "person_id": "person:Matthew Lisondra", "conf": 0.8, "src": "paper_title"}
+{"phrase": "erik frey", "person_id": "person:Erik Frey", "conf": 0.95, "src": "full_name"}
+{"phrase": "ef", "person_id": "person:Erik Frey", "conf": 0.5, "src": "initials"}
+{"phrase": "e frey", "person_id": "person:Erik Frey", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Erik Frey", "conf": 0.8, "src": "paper_title"}
+{"phrase": "georgia chalvatzaki", "person_id": "person:Georgia Chalvatzaki", "conf": 0.95, "src": "full_name"}
+{"phrase": "gc", "person_id": "person:Georgia Chalvatzaki", "conf": 0.5, "src": "initials"}
+{"phrase": "g chalvatzaki", "person_id": "person:Georgia Chalvatzaki", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of model predictive actor-critic: acce", "person_id": "person:Georgia Chalvatzaki", "conf": 0.8, "src": "paper_title"}
+{"phrase": "marco dorigo", "person_id": "person:Marco Dorigo", "conf": 0.95, "src": "full_name"}
+{"phrase": "md", "person_id": "person:Marco Dorigo", "conf": 0.5, "src": "initials"}
+{"phrase": "m dorigo", "person_id": "person:Marco Dorigo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of secure and secret cooperation in ro", "person_id": "person:Marco Dorigo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "camillo j. taylor", "person_id": "person:Camillo J. Taylor", "conf": 0.95, "src": "full_name"}
+{"phrase": "ct", "person_id": "person:Camillo J. Taylor", "conf": 0.5, "src": "initials"}
+{"phrase": "c taylor", "person_id": "person:Camillo J. Taylor", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of active metric-semantic mapping by m", "person_id": "person:Camillo J. Taylor", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tianrun hu", "person_id": "person:Tianrun Hu", "conf": 0.95, "src": "full_name"}
+{"phrase": "th", "person_id": "person:Tianrun Hu", "conf": 0.5, "src": "initials"}
+{"phrase": "t hu", "person_id": "person:Tianrun Hu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hypothesis-driven model expansion u", "person_id": "person:Tianrun Hu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ashwin balakrishna", "person_id": "person:Ashwin Balakrishna", "conf": 0.95, "src": "full_name"}
+{"phrase": "ab", "person_id": "person:Ashwin Balakrishna", "conf": 0.5, "src": "initials"}
+{"phrase": "a balakrishna", "person_id": "person:Ashwin Balakrishna", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Ashwin Balakrishna", "conf": 0.8, "src": "paper_title"}
+{"phrase": "roland siegwart", "person_id": "person:Roland Siegwart", "conf": 0.95, "src": "full_name"}
+{"phrase": "rs", "person_id": "person:Roland Siegwart", "conf": 0.5, "src": "initials"}
+{"phrase": "r siegwart", "person_id": "person:Roland Siegwart", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of task adaptation in industrial human", "person_id": "person:Roland Siegwart", "conf": 0.8, "src": "paper_title"}
+{"phrase": "isabel leal", "person_id": "person:Isabel Leal", "conf": 0.95, "src": "full_name"}
+{"phrase": "il", "person_id": "person:Isabel Leal", "conf": 0.5, "src": "initials"}
+{"phrase": "i leal", "person_id": "person:Isabel Leal", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Isabel Leal", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sumeet singh", "person_id": "person:Sumeet Singh", "conf": 0.95, "src": "full_name"}
+{"phrase": "ss", "person_id": "person:Sumeet Singh", "conf": 0.5, "src": "initials"}
+{"phrase": "s singh", "person_id": "person:Sumeet Singh", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Sumeet Singh", "conf": 0.8, "src": "paper_title"}
+{"phrase": "runze suo", "person_id": "person:Runze Suo", "conf": 0.95, "src": "full_name"}
+{"phrase": "rs", "person_id": "person:Runze Suo", "conf": 0.5, "src": "initials"}
+{"phrase": "r suo", "person_id": "person:Runze Suo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Runze Suo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jiarao liu", "person_id": "person:Jiarao Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "jl", "person_id": "person:Jiarao Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "j liu", "person_id": "person:Jiarao Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world-gymnast: training robots with", "person_id": "person:Jiarao Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yuheng kuang", "person_id": "person:Yuheng Kuang", "conf": 0.95, "src": "full_name"}
+{"phrase": "yk", "person_id": "person:Yuheng Kuang", "conf": 0.5, "src": "initials"}
+{"phrase": "y kuang", "person_id": "person:Yuheng Kuang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Yuheng Kuang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "fernando cladera", "person_id": "person:Fernando Cladera", "conf": 0.95, "src": "full_name"}
+{"phrase": "fc", "person_id": "person:Fernando Cladera", "conf": 0.5, "src": "initials"}
+{"phrase": "f cladera", "person_id": "person:Fernando Cladera", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of active metric-semantic mapping by m", "person_id": "person:Fernando Cladera", "conf": 0.8, "src": "paper_title"}
+{"phrase": "kenji kato", "person_id": "person:Kenji Kato", "conf": 0.95, "src": "full_name"}
+{"phrase": "kk", "person_id": "person:Kenji Kato", "conf": 0.5, "src": "initials"}
+{"phrase": "k kato", "person_id": "person:Kenji Kato", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of enhancing the llm-based robot manip", "person_id": "person:Kenji Kato", "conf": 0.8, "src": "paper_title"}
+{"phrase": "davide bacciu", "person_id": "person:Davide Bacciu", "conf": 0.95, "src": "full_name"}
+{"phrase": "db", "person_id": "person:Davide Bacciu", "conf": 0.5, "src": "initials"}
+{"phrase": "d bacciu", "person_id": "person:Davide Bacciu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of continual learning for recurrent ne", "person_id": "person:Davide Bacciu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lu wang", "person_id": "person:Lu Wang", "conf": 0.95, "src": "full_name"}
+{"phrase": "lw", "person_id": "person:Lu Wang", "conf": 0.5, "src": "initials"}
+{"phrase": "l wang", "person_id": "person:Lu Wang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of improving generalization of deep ne", "person_id": "person:Lu Wang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "dorsa sadigh", "person_id": "person:Dorsa Sadigh", "conf": 0.95, "src": "full_name"}
+{"phrase": "ds", "person_id": "person:Dorsa Sadigh", "conf": 0.5, "src": "initials"}
+{"phrase": "d sadigh", "person_id": "person:Dorsa Sadigh", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Dorsa Sadigh", "conf": 0.8, "src": "paper_title"}
+{"phrase": "peter pastor", "person_id": "person:Peter Pastor", "conf": 0.95, "src": "full_name"}
+{"phrase": "pp", "person_id": "person:Peter Pastor", "conf": 0.5, "src": "initials"}
+{"phrase": "p pastor", "person_id": "person:Peter Pastor", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Peter Pastor", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jan peters", "person_id": "person:Jan Peters", "conf": 0.95, "src": "full_name"}
+{"phrase": "jp", "person_id": "person:Jan Peters", "conf": 0.5, "src": "initials"}
+{"phrase": "j peters", "person_id": "person:Jan Peters", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of model predictive actor-critic: acce", "person_id": "person:Jan Peters", "conf": 0.8, "src": "paper_title"}
+{"phrase": "niko sünderhauf", "person_id": "person:Niko Sünderhauf", "conf": 0.95, "src": "full_name"}
+{"phrase": "ns", "person_id": "person:Niko Sünderhauf", "conf": 0.5, "src": "initials"}
+{"phrase": "n sünderhauf", "person_id": "person:Niko Sünderhauf", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Niko Sünderhauf", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jürgen schmidhuber", "person_id": "person:Jürgen Schmidhuber", "conf": 0.95, "src": "full_name"}
+{"phrase": "js", "person_id": "person:Jürgen Schmidhuber", "conf": 0.5, "src": "initials"}
+{"phrase": "j schmidhuber", "person_id": "person:Jürgen Schmidhuber", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world models revisited: scaling lat", "person_id": "person:Jürgen Schmidhuber", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ruiqi gao", "person_id": "person:Ruiqi Gao", "conf": 0.95, "src": "full_name"}
+{"phrase": "rg", "person_id": "person:Ruiqi Gao", "conf": 0.5, "src": "initials"}
+{"phrase": "r gao", "person_id": "person:Ruiqi Gao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Ruiqi Gao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sergey yaroshenko", "person_id": "person:Sergey Yaroshenko", "conf": 0.95, "src": "full_name"}
+{"phrase": "sy", "person_id": "person:Sergey Yaroshenko", "conf": 0.5, "src": "initials"}
+{"phrase": "s yaroshenko", "person_id": "person:Sergey Yaroshenko", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Sergey Yaroshenko", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lionel ott", "person_id": "person:Lionel Ott", "conf": 0.95, "src": "full_name"}
+{"phrase": "lo", "person_id": "person:Lionel Ott", "conf": 0.5, "src": "initials"}
+{"phrase": "l ott", "person_id": "person:Lionel Ott", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of task adaptation in industrial human", "person_id": "person:Lionel Ott", "conf": 0.8, "src": "paper_title"}
+{"phrase": "a. l. mikaelyan", "person_id": "person:A. L. Mikaelyan", "conf": 0.95, "src": "full_name"}
+{"phrase": "am", "person_id": "person:A. L. Mikaelyan", "conf": 0.5, "src": "initials"}
+{"phrase": "a mikaelyan", "person_id": "person:A. L. Mikaelyan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of parametrical neural network", "person_id": "person:A. L. Mikaelyan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "ken goldberg", "person_id": "person:Ken Goldberg", "conf": 0.95, "src": "full_name"}
+{"phrase": "kg", "person_id": "person:Ken Goldberg", "conf": 0.5, "src": "initials"}
+{"phrase": "k goldberg", "person_id": "person:Ken Goldberg", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Ken Goldberg", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xinyang liu", "person_id": "person:Xinyang Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "xl", "person_id": "person:Xinyang Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "x liu", "person_id": "person:Xinyang Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of human-aware physical human-robot co", "person_id": "person:Xinyang Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zheyuan hu", "person_id": "person:Zheyuan Hu", "conf": 0.95, "src": "full_name"}
+{"phrase": "zh", "person_id": "person:Zheyuan Hu", "conf": 0.5, "src": "initials"}
+{"phrase": "z hu", "person_id": "person:Zheyuan Hu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of tackling the curse of dimensionalit", "person_id": "person:Zheyuan Hu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "david laredo", "person_id": "person:David Laredo", "conf": 0.95, "src": "full_name"}
+{"phrase": "dl", "person_id": "person:David Laredo", "conf": 0.5, "src": "initials"}
+{"phrase": "d laredo", "person_id": "person:David Laredo", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a neural network-evolutionary compu", "person_id": "person:David Laredo", "conf": 0.8, "src": "paper_title"}
+{"phrase": "annie xie", "person_id": "person:Annie Xie", "conf": 0.95, "src": "full_name"}
+{"phrase": "ax", "person_id": "person:Annie Xie", "conf": 0.5, "src": "initials"}
+{"phrase": "a xie", "person_id": "person:Annie Xie", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Annie Xie", "conf": 0.8, "src": "paper_title"}
+{"phrase": "douglas morrison", "person_id": "person:Douglas Morrison", "conf": 0.95, "src": "full_name"}
+{"phrase": "dm", "person_id": "person:Douglas Morrison", "conf": 0.5, "src": "initials"}
+{"phrase": "d morrison", "person_id": "person:Douglas Morrison", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of semantics for robotic mapping, perc", "person_id": "person:Douglas Morrison", "conf": 0.8, "src": "paper_title"}
+{"phrase": "dingkang wang", "person_id": "person:Dingkang Wang", "conf": 0.95, "src": "full_name"}
+{"phrase": "dw", "person_id": "person:Dingkang Wang", "conf": 0.5, "src": "initials"}
+{"phrase": "d wang", "person_id": "person:Dingkang Wang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of design of an adaptive lightweight l", "person_id": "person:Dingkang Wang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "minjie chen", "person_id": "person:Minjie Chen", "conf": 0.95, "src": "full_name"}
+{"phrase": "mc", "person_id": "person:Minjie Chen", "conf": 0.5, "src": "initials"}
+{"phrase": "m chen", "person_id": "person:Minjie Chen", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:Minjie Chen", "conf": 0.8, "src": "paper_title"}
+{"phrase": "prakhar kumar", "person_id": "person:Prakhar Kumar", "conf": 0.95, "src": "full_name"}
+{"phrase": "pk", "person_id": "person:Prakhar Kumar", "conf": 0.5, "src": "initials"}
+{"phrase": "p kumar", "person_id": "person:Prakhar Kumar", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of piezoelectric soft robot inchworm m", "person_id": "person:Prakhar Kumar", "conf": 0.8, "src": "paper_title"}
+{"phrase": "pierre beckmann", "person_id": "person:Pierre Beckmann", "conf": 0.95, "src": "full_name"}
+{"phrase": "pb", "person_id": "person:Pierre Beckmann", "conf": 0.5, "src": "initials"}
+{"phrase": "p beckmann", "person_id": "person:Pierre Beckmann", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of v-jepa for robotic world models: ac", "person_id": "person:Pierre Beckmann", "conf": 0.8, "src": "paper_title"}
+{"phrase": "shanlin xiao", "person_id": "person:Shanlin Xiao", "conf": 0.95, "src": "full_name"}
+{"phrase": "sx", "person_id": "person:Shanlin Xiao", "conf": 0.5, "src": "initials"}
+{"phrase": "s xiao", "person_id": "person:Shanlin Xiao", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of spiking inception module for multi-", "person_id": "person:Shanlin Xiao", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zhi-hua zhou", "person_id": "person:Zhi-Hua Zhou", "conf": 0.95, "src": "full_name"}
+{"phrase": "zz", "person_id": "person:Zhi-Hua Zhou", "conf": 0.5, "src": "initials"}
+{"phrase": "z zhou", "person_id": "person:Zhi-Hua Zhou", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of improving generalization of deep ne", "person_id": "person:Zhi-Hua Zhou", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yiannis karayiannidis", "person_id": "person:Yiannis Karayiannidis", "conf": 0.95, "src": "full_name"}
+{"phrase": "yk", "person_id": "person:Yiannis Karayiannidis", "conf": 0.5, "src": "initials"}
+{"phrase": "y karayiannidis", "person_id": "person:Yiannis Karayiannidis", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a survey of robot manipulation in c", "person_id": "person:Yiannis Karayiannidis", "conf": 0.8, "src": "paper_title"}
+{"phrase": "gemini robotics team", "person_id": "person:Gemini Robotics Team", "conf": 0.95, "src": "full_name"}
+{"phrase": "gt", "person_id": "person:Gemini Robotics Team", "conf": 0.5, "src": "initials"}
+{"phrase": "g team", "person_id": "person:Gemini Robotics Team", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Gemini Robotics Team", "conf": 0.8, "src": "paper_title"}
+{"phrase": "adrien bardes", "person_id": "person:Adrien Bardes", "conf": 0.95, "src": "full_name"}
+{"phrase": "ab", "person_id": "person:Adrien Bardes", "conf": 0.5, "src": "initials"}
+{"phrase": "a bardes", "person_id": "person:Adrien Bardes", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of jepa under the hood: understanding ", "person_id": "person:Adrien Bardes", "conf": 0.8, "src": "paper_title"}
+{"phrase": "marcos eduardo valle", "person_id": "person:Marcos Eduardo Valle", "conf": 0.95, "src": "full_name"}
+{"phrase": "mv", "person_id": "person:Marcos Eduardo Valle", "conf": 0.5, "src": "initials"}
+{"phrase": "m valle", "person_id": "person:Marcos Eduardo Valle", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of acute lymphoblastic leukemia detect", "person_id": "person:Marcos Eduardo Valle", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xu yan", "person_id": "person:Xu Yan", "conf": 0.95, "src": "full_name"}
+{"phrase": "xy", "person_id": "person:Xu Yan", "conf": 0.5, "src": "initials"}
+{"phrase": "x yan", "person_id": "person:Xu Yan", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of intent at a glance: gaze-guided rob", "person_id": "person:Xu Yan", "conf": 0.8, "src": "paper_title"}
+{"phrase": "dhruv shah", "person_id": "person:Dhruv Shah", "conf": 0.95, "src": "full_name"}
+{"phrase": "ds", "person_id": "person:Dhruv Shah", "conf": 0.5, "src": "initials"}
+{"phrase": "d shah", "person_id": "person:Dhruv Shah", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of evaluating gemini robotics policies", "person_id": "person:Dhruv Shah", "conf": 0.8, "src": "paper_title"}
+{"phrase": "cody fong", "person_id": "person:Cody Fong", "conf": 0.95, "src": "full_name"}
+{"phrase": "cf", "person_id": "person:Cody Fong", "conf": 0.5, "src": "initials"}
+{"phrase": "c fong", "person_id": "person:Cody Fong", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Cody Fong", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sergey levine", "person_id": "person:Sergey Levine", "conf": 0.95, "src": "full_name"}
+{"phrase": "sl", "person_id": "person:Sergey Levine", "conf": 0.5, "src": "initials"}
+{"phrase": "s levine", "person_id": "person:Sergey Levine", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Sergey Levine", "conf": 0.8, "src": "paper_title"}
+{"phrase": "stefan welker", "person_id": "person:Stefan Welker", "conf": 0.95, "src": "full_name"}
+{"phrase": "sw", "person_id": "person:Stefan Welker", "conf": 0.5, "src": "initials"}
+{"phrase": "s welker", "person_id": "person:Stefan Welker", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Stefan Welker", "conf": 0.8, "src": "paper_title"}
+{"phrase": "chelsea finn", "person_id": "person:Chelsea Finn", "conf": 0.95, "src": "full_name"}
+{"phrase": "cf", "person_id": "person:Chelsea Finn", "conf": 0.5, "src": "initials"}
+{"phrase": "c finn", "person_id": "person:Chelsea Finn", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical world models for long-", "person_id": "person:Chelsea Finn", "conf": 0.8, "src": "paper_title"}
+{"phrase": "xianfang zeng", "person_id": "person:Xianfang Zeng", "conf": 0.95, "src": "full_name"}
+{"phrase": "xz", "person_id": "person:Xianfang Zeng", "conf": 0.5, "src": "initials"}
+{"phrase": "x zeng", "person_id": "person:Xianfang Zeng", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of a learning framework for n-bit quan", "person_id": "person:Xianfang Zeng", "conf": 0.8, "src": "paper_title"}
+{"phrase": "lerrel pinto", "person_id": "person:Lerrel Pinto", "conf": 0.95, "src": "full_name"}
+{"phrase": "lp", "person_id": "person:Lerrel Pinto", "conf": 0.5, "src": "initials"}
+{"phrase": "l pinto", "person_id": "person:Lerrel Pinto", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of bind what matters: efficient fine-t", "person_id": "person:Lerrel Pinto", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yuchen cui", "person_id": "person:Yuchen Cui", "conf": 0.95, "src": "full_name"}
+{"phrase": "yc", "person_id": "person:Yuchen Cui", "conf": 0.5, "src": "initials"}
+{"phrase": "y cui", "person_id": "person:Yuchen Cui", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of intent at a glance: gaze-guided rob", "person_id": "person:Yuchen Cui", "conf": 0.8, "src": "paper_title"}
+{"phrase": "michael pantic", "person_id": "person:Michael Pantic", "conf": 0.95, "src": "full_name"}
+{"phrase": "mp", "person_id": "person:Michael Pantic", "conf": 0.5, "src": "initials"}
+{"phrase": "m pantic", "person_id": "person:Michael Pantic", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of task adaptation in industrial human", "person_id": "person:Michael Pantic", "conf": 0.8, "src": "paper_title"}
+{"phrase": "futeng liu", "person_id": "person:Futeng Liu", "conf": 0.95, "src": "full_name"}
+{"phrase": "fl", "person_id": "person:Futeng Liu", "conf": 0.5, "src": "initials"}
+{"phrase": "f liu", "person_id": "person:Futeng Liu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Futeng Liu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "quentin garrido", "person_id": "person:Quentin Garrido", "conf": 0.95, "src": "full_name"}
+{"phrase": "qg", "person_id": "person:Quentin Garrido", "conf": 0.5, "src": "initials"}
+{"phrase": "q garrido", "person_id": "person:Quentin Garrido", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of jepa under the hood: understanding ", "person_id": "person:Quentin Garrido", "conf": 0.8, "src": "paper_title"}
+{"phrase": "gabriele mt d'eleuterio", "person_id": "person:Gabriele MT D'Eleuterio", "conf": 0.95, "src": "full_name"}
+{"phrase": "gd", "person_id": "person:Gabriele MT D'Eleuterio", "conf": 0.5, "src": "initials"}
+{"phrase": "g d'eleuterio", "person_id": "person:Gabriele MT D'Eleuterio", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of synthesis of recurrent neural netwo", "person_id": "person:Gabriele MT D'Eleuterio", "conf": 0.8, "src": "paper_title"}
+{"phrase": "david d'ambrosio", "person_id": "person:David D'Ambrosio", "conf": 0.95, "src": "full_name"}
+{"phrase": "dd", "person_id": "person:David D'Ambrosio", "conf": 0.5, "src": "initials"}
+{"phrase": "d d'ambrosio", "person_id": "person:David D'Ambrosio", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:David D'Ambrosio", "conf": 0.8, "src": "paper_title"}
+{"phrase": "domingo esteban", "person_id": "person:Domingo Esteban", "conf": 0.95, "src": "full_name"}
+{"phrase": "de", "person_id": "person:Domingo Esteban", "conf": 0.5, "src": "initials"}
+{"phrase": "d esteban", "person_id": "person:Domingo Esteban", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of vital: vision-based terrain-aware l", "person_id": "person:Domingo Esteban", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sanjeev j. koppal", "person_id": "person:Sanjeev J. Koppal", "conf": 0.95, "src": "full_name"}
+{"phrase": "sk", "person_id": "person:Sanjeev J. Koppal", "conf": 0.5, "src": "initials"}
+{"phrase": "s koppal", "person_id": "person:Sanjeev J. Koppal", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of design of an adaptive lightweight l", "person_id": "person:Sanjeev J. Koppal", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jonathan tompson", "person_id": "person:Jonathan Tompson", "conf": 0.95, "src": "full_name"}
+{"phrase": "jt", "person_id": "person:Jonathan Tompson", "conf": 0.5, "src": "initials"}
+{"phrase": "j tompson", "person_id": "person:Jonathan Tompson", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jonathan Tompson", "conf": 0.8, "src": "paper_title"}
+{"phrase": "aaron m. dollar", "person_id": "person:Aaron M. Dollar", "conf": 0.95, "src": "full_name"}
+{"phrase": "ad", "person_id": "person:Aaron M. Dollar", "conf": 0.5, "src": "initials"}
+{"phrase": "a dollar", "person_id": "person:Aaron M. Dollar", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of model predictive actor-critic: acce", "person_id": "person:Aaron M. Dollar", "conf": 0.8, "src": "paper_title"}
+{"phrase": "zora joldy", "person_id": "person:Zora Joldy", "conf": 0.95, "src": "full_name"}
+{"phrase": "zj", "person_id": "person:Zora Joldy", "conf": 0.5, "src": "initials"}
+{"phrase": "z joldy", "person_id": "person:Zora Joldy", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of training dynamics of jepa: when do ", "person_id": "person:Zora Joldy", "conf": 0.8, "src": "paper_title"}
+{"phrase": "george em karniadakis", "person_id": "person:George Em Karniadakis", "conf": 0.95, "src": "full_name"}
+{"phrase": "gk", "person_id": "person:George Em Karniadakis", "conf": 0.5, "src": "initials"}
+{"phrase": "g karniadakis", "person_id": "person:George Em Karniadakis", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of tackling the curse of dimensionalit", "person_id": "person:George Em Karniadakis", "conf": 0.8, "src": "paper_title"}
+{"phrase": "tracey yee hsin tay", "person_id": "person:Tracey Yee Hsin Tay", "conf": 0.95, "src": "full_name"}
+{"phrase": "tt", "person_id": "person:Tracey Yee Hsin Tay", "conf": 0.5, "src": "initials"}
+{"phrase": "t tay", "person_id": "person:Tracey Yee Hsin Tay", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of intent at a glance: gaze-guided rob", "person_id": "person:Tracey Yee Hsin Tay", "conf": 0.8, "src": "paper_title"}
+{"phrase": "piotr migus", "person_id": "person:Piotr Migus", "conf": 0.95, "src": "full_name"}
+{"phrase": "pm", "person_id": "person:Piotr Migus", "conf": 0.5, "src": "initials"}
+{"phrase": "p migus", "person_id": "person:Piotr Migus", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of newton-puiseux analysis for interpr", "person_id": "person:Piotr Migus", "conf": 0.8, "src": "paper_title"}
+{"phrase": "adam trischler", "person_id": "person:Adam Trischler", "conf": 0.95, "src": "full_name"}
+{"phrase": "at", "person_id": "person:Adam Trischler", "conf": 0.5, "src": "initials"}
+{"phrase": "a trischler", "person_id": "person:Adam Trischler", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of synthesis of recurrent neural netwo", "person_id": "person:Adam Trischler", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jake varley", "person_id": "person:Jake Varley", "conf": 0.95, "src": "full_name"}
+{"phrase": "jv", "person_id": "person:Jake Varley", "conf": 0.5, "src": "initials"}
+{"phrase": "j varley", "person_id": "person:Jake Varley", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Jake Varley", "conf": 0.8, "src": "paper_title"}
+{"phrase": "travis armstrong", "person_id": "person:Travis Armstrong", "conf": 0.95, "src": "full_name"}
+{"phrase": "ta", "person_id": "person:Travis Armstrong", "conf": 0.5, "src": "initials"}
+{"phrase": "t armstrong", "person_id": "person:Travis Armstrong", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Travis Armstrong", "conf": 0.8, "src": "paper_title"}
+{"phrase": "heyun wang", "person_id": "person:Heyun Wang", "conf": 0.95, "src": "full_name"}
+{"phrase": "hw", "person_id": "person:Heyun Wang", "conf": 0.5, "src": "initials"}
+{"phrase": "h wang", "person_id": "person:Heyun Wang", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of xiaomi-robotics-1: scaling vision-l", "person_id": "person:Heyun Wang", "conf": 0.8, "src": "paper_title"}
+{"phrase": "a. k. ojha", "person_id": "person:A. K. Ojha", "conf": 0.95, "src": "full_name"}
+{"phrase": "ao", "person_id": "person:A. K. Ojha", "conf": 0.5, "src": "initials"}
+{"phrase": "a ojha", "person_id": "person:A. K. Ojha", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of existence and global logarithmic st", "person_id": "person:A. K. Ojha", "conf": 0.8, "src": "paper_title"}
+{"phrase": "sudeep dasari", "person_id": "person:Sudeep Dasari", "conf": 0.95, "src": "full_name"}
+{"phrase": "sd", "person_id": "person:Sudeep Dasari", "conf": 0.5, "src": "initials"}
+{"phrase": "s dasari", "person_id": "person:Sudeep Dasari", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Sudeep Dasari", "conf": 0.8, "src": "paper_title"}
+{"phrase": "andre lamurias", "person_id": "person:Andre Lamurias", "conf": 0.95, "src": "full_name"}
+{"phrase": "al", "person_id": "person:Andre Lamurias", "conf": 0.5, "src": "initials"}
+{"phrase": "a lamurias", "person_id": "person:Andre Lamurias", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of using neural networks for relation ", "person_id": "person:Andre Lamurias", "conf": 0.8, "src": "paper_title"}
+{"phrase": "christine annette shoemaker", "person_id": "person:Christine Annette Shoemaker", "conf": 0.95, "src": "full_name"}
+{"phrase": "cs", "person_id": "person:Christine Annette Shoemaker", "conf": 0.5, "src": "initials"}
+{"phrase": "c shoemaker", "person_id": "person:Christine Annette Shoemaker", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of learning active subspaces and disco", "person_id": "person:Christine Annette Shoemaker", "conf": 0.8, "src": "paper_title"}
+{"phrase": "felix li", "person_id": "person:Felix Li", "conf": 0.95, "src": "full_name"}
+{"phrase": "fl", "person_id": "person:Felix Li", "conf": 0.5, "src": "initials"}
+{"phrase": "f li", "person_id": "person:Felix Li", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of safety augmented value estimation f", "person_id": "person:Felix Li", "conf": 0.8, "src": "paper_title"}
+{"phrase": "jader abreu", "person_id": "person:Jader Abreu", "conf": 0.95, "src": "full_name"}
+{"phrase": "ja", "person_id": "person:Jader Abreu", "conf": 0.5, "src": "initials"}
+{"phrase": "j abreu", "person_id": "person:Jader Abreu", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of hierarchical attentional hybrid neu", "person_id": "person:Jader Abreu", "conf": 0.8, "src": "paper_title"}
+{"phrase": "assaf hurwitz michaely", "person_id": "person:Assaf Hurwitz Michaely", "conf": 0.95, "src": "full_name"}
+{"phrase": "am", "person_id": "person:Assaf Hurwitz Michaely", "conf": 0.5, "src": "initials"}
+{"phrase": "a michaely", "person_id": "person:Assaf Hurwitz Michaely", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of gemini robotics: bringing ai into t", "person_id": "person:Assaf Hurwitz Michaely", "conf": 0.8, "src": "paper_title"}
+{"phrase": "yixiang sun", "person_id": "person:Yixiang Sun", "conf": 0.95, "src": "full_name"}
+{"phrase": "ys", "person_id": "person:Yixiang Sun", "conf": 0.5, "src": "initials"}
+{"phrase": "y sun", "person_id": "person:Yixiang Sun", "conf": 0.6, "src": "first_last_initial"}
+{"phrase": "author of world-gymnast: training robots with", "person_id": "person:Yixiang Sun", "conf": 0.8, "src": "paper_title"}
