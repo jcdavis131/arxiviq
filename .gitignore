@@ -37,3 +37,11 @@ data/graph.json
 # vercel
 .vercel/
 
+
+# professional standard 2026-08-17
+.scout/
+**/dev_key
+**/*_api_key
+dev-api-audit.log
+.env.local
+checkpoints/

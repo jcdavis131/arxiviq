@@ -101,6 +101,7 @@ export default function Page(){
         <div style={{marginLeft:"auto",display:"flex",gap:6,alignItems:"center",flexWrap:"wrap"}}>
           <span className="pill" style={{background:"#fff"}}>{stats.papers||"–"} papers • {stats.nodes} nodes • {stats.edges} edges</span>
           <span className="pill live">{stats.archs} archs • {stats.topics} topics • comp {(composite).toFixed(2)}→0.75</span>
+          <a className="pill on" href="https://agentic-harness-pair-programmer-north-star-9pvpq15u.vercel.app" target="_blank" rel="noreferrer" title="Agentic Harness SSOT">harness G0→G4 ↗</a>
           <a className="pill on" href="https://github.com/jcdavis131/dottie" target="_blank" rel="noreferrer">dottie harness ↗</a>
         </div>
       </header>
